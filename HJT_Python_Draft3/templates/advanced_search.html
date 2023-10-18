@@ -16,6 +16,7 @@
             <option value="author">Author</option>
             <option value="title">Title</option>
             <option value="publisher">Publisher</option>
+            <option value="pages">Pages</option>
         </select>
 
         <div id="filterContainer">
@@ -27,6 +28,10 @@
                 <option value="after_or_equals">After or Equals</option>
             </select>
             <input type="text" id="year" placeholder="Enter Year">
+        </div>
+
+        <div id="pageFilterContainer">
+            <input type="text" id="pages" style="display: none;" placeholder="Enter Pages">
         </div>
         
         <button type="submit">Search</button>
@@ -137,14 +142,21 @@
         document.getElementById('filterType').addEventListener('change', function() {
             const filterType = this.value;
             const yearInput = document.getElementById('year');
+            const pagesInput = document.getElementById('pages');
             const conditionSelect = document.getElementById('condition');
 
             if (filterType === 'year') {
                 yearInput.style.display = '';
                 conditionSelect.style.display = '';
+                pagesInput.style.display = 'none';
+            } else if (filterType === 'pages') {
+                pagesInput.style.display = '';
+                yearInput.style.display = 'none';
+                conditionSelect.style.display = 'none';
             } else {
                 yearInput.style.display = 'none';
                 conditionSelect.style.display = 'none';
+                pagesInput.style.display = 'none';
             }
         });
     </script>
