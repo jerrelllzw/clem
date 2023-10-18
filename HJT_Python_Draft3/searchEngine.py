@@ -80,6 +80,18 @@ def search_by_paper_id(data, paper_id):
             results.append(publication)
     return results
 
+def search_by_pages(data, pages):
+    publications = [publication for publication in data if (FIELD_SOURCE in publication and SUBFIELD_SOURCE_PAGES in publication[FIELD_SOURCE])]
+    results = []
+    for publication in publications:
+        if SUBFIELD_SOURCE_PAGES_END in publication[FIELD_SOURCE][SUBFIELD_SOURCE_PAGES] and SUBFIELD_SOURCE_PAGES_START in publication[FIELD_SOURCE][SUBFIELD_SOURCE_PAGES]:
+            e_page = publication[FIELD_SOURCE][SUBFIELD_SOURCE_PAGES][SUBFIELD_SOURCE_PAGES_END]
+            s_page = publication[FIELD_SOURCE][SUBFIELD_SOURCE_PAGES][SUBFIELD_SOURCE_PAGES_START]
+            if isinstance(e_page, int) and isinstance(s_page, int):
+                if e_page - s_page == pages:
+                    results.append(publication)
+    return results
+
 '''
 #def search_by_keyword(data, keyword_words):
     keyword_words = keyword_words.lower().split()
