@@ -13,7 +13,7 @@
         <label for="filterType">Filter By:</label>
         <select id="filterType">
             <option value="year">Year</option>
-            <option value="author">Author</option>
+            <option value="author">Authors</option>
             <option value="title">Title</option>
             <option value="publisher">Publisher</option>
             <option value="pages">Pages</option>
@@ -28,6 +28,10 @@
                 <option value="after_or_equals">After or Equals</option>
             </select>
             <input type="text" id="year" placeholder="Enter Year">
+        </div>
+
+        <div id="authorFilterContainer">
+            <input type="text" id="authors" style="display: none;" placeholder="Enter Authors (e.g. a, b, ...)">
         </div>
 
         <div id="pageFilterContainer">
@@ -58,6 +62,7 @@
             const data = {
                 filterType: document.getElementById('filterType').value,
                 year: document.getElementById('year').value,
+                authors: document.getElementById('authors').value,
                 pages: document.getElementById('pages').value,
                 condition: document.getElementById('condition').value
             };
@@ -143,20 +148,29 @@
         document.getElementById('filterType').addEventListener('change', function() {
             const filterType = this.value;
             const yearInput = document.getElementById('year');
+            const authorsInput = document.getElementById('authors');
             const pagesInput = document.getElementById('pages');
             const conditionSelect = document.getElementById('condition');
 
             if (filterType === 'year') {
                 yearInput.style.display = '';
                 conditionSelect.style.display = '';
+                authorsInput.style.display = 'none';
+                pagesInput.style.display = 'none';
+            }  else if (filterType === 'author') {
+                authorsInput.style.display = '';
+                yearInput.style.display = 'none';
+                conditionSelect.style.display = 'none';
                 pagesInput.style.display = 'none';
             } else if (filterType === 'pages') {
                 pagesInput.style.display = '';
                 yearInput.style.display = 'none';
                 conditionSelect.style.display = 'none';
+                authorsInput.style.display = 'none';
             } else {
                 yearInput.style.display = 'none';
                 conditionSelect.style.display = 'none';
+                authorsInput.style.display = 'none';
                 pagesInput.style.display = 'none';
             }
         });

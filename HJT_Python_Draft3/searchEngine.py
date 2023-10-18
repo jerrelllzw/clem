@@ -92,6 +92,15 @@ def search_by_pages(data, pages):
                     results.append(publication)
     return results
 
+def search_by_authors(data, input_names):
+    input_names  = [name.strip().lower() for name in input_names.split(',')]
+    results = []
+    for publication in data:
+        authors = publication.get(FIELD_AUTHORS, [])
+        if any(name in (author[SUBFIELD_AUTHORS_FNAME].lower() or author[SUBFIELD_AUTHORS_LNAME].lower()) for author in authors for name in input_names ):
+            results.append(publication)
+    return results
+
 '''
 #def search_by_keyword(data, keyword_words):
     keyword_words = keyword_words.lower().split()

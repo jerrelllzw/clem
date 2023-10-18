@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, jsonify,redirect, url_for
 from searchEngine import (
     load_data,
+    search_by_authors,
     search_by_pages, 
     search_by_year, 
     search_by_name, 
@@ -112,6 +113,7 @@ def advanced_search_results():
     dataBase = load_data(DATABASE_NAME)
     year = search_data.get('year')
     condition = search_data.get('condition')
+    authors = search_data.get('authors')
     pages = search_data.get('pages')
     if year != '':
         year = int(year)
@@ -128,6 +130,8 @@ def advanced_search_results():
         else:
             print(matching_publications)
             return jsonify({"error": "Invalid search condition"})
+    elif authors != '':
+        matching_publications = search_by_authors(dataBase, authors)
     elif pages != '':
         pages = int(pages)
         matching_publications = search_by_pages(dataBase, pages)
