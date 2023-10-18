@@ -112,7 +112,7 @@ def advanced_search_results():
     year = search_data.get('year')
     condition = search_data.get('condition')
     pages = search_data.get('pages')
-    if year is not '':
+    if year != '':
         year = int(year)
         if condition == "before":
             matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) < year]
@@ -127,7 +127,7 @@ def advanced_search_results():
         else:
             print(matching_publications)
             return jsonify({"error": "Invalid search condition"})
-    elif pages is not '':
+    elif pages != '':
         pages = int(pages)
         matching_publications = [pub for pub in dataBase if int(pub[KEY_E_PAGE] - pub[KEY_S_PAGE]) == pages]
     #print(matching_publications)
