@@ -22,6 +22,8 @@ KEY_JOURNAL = 'journal'
 KEY_JOURNAL_ARTICLE_TITLE = 'journalarticletitle'
 KEY_KEYWORD = 'keyword'
 KEY_PAPER_ID = 'paper_id'
+KEY_S_PAGE = 's_page'
+KEY_E_PAGE = 'e_page'
 
 
 # To start webapp
@@ -108,21 +110,26 @@ def advanced_search_results():
     search_data = request.json
     dataBase = load_data(DATABASE_NAME)
     year = search_data.get('year')
-    condition = search_data.get('condition')  
-    year = int(year)
-    if condition == "before":
-        matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) < year]
-    elif condition == "after":
-        matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) > year]
-    elif condition == "equals":
-        matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) == year]
-    elif condition == "before_or_equals":
-        matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) <= year]
-    elif condition == "after_or_equals":
-        matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) >= year]
-    else:
-        print(matching_publications)
-        return jsonify({"error": "Invalid search condition"})
+    condition = search_data.get('condition')
+    pages = search_data.get('pages')
+    if year is not '':
+        year = int(year)
+        if condition == "before":
+            matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) < year]
+        elif condition == "after":
+            matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) > year]
+        elif condition == "equals":
+            matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) == year]
+        elif condition == "before_or_equals":
+            matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) <= year]
+        elif condition == "after_or_equals":
+            matching_publications = [pub for pub in dataBase if int(pub[KEY_YEAR]) >= year]
+        else:
+            print(matching_publications)
+            return jsonify({"error": "Invalid search condition"})
+    elif pages is not '':
+        pages = int(pages)
+        matching_publications = [pub for pub in dataBase if int(pub[KEY_E_PAGE] - pub[KEY_S_PAGE]) == pages]
     #print(matching_publications)
     return jsonify(matching_publications)
 
