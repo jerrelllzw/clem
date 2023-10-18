@@ -24,8 +24,6 @@ KEY_JOURNAL = 'journal'
 KEY_JOURNAL_ARTICLE_TITLE = 'journalarticletitle'
 KEY_KEYWORD = 'keyword'
 KEY_PAPER_ID = 'paper_id'
-KEY_S_PAGE = 's_page'
-KEY_E_PAGE = 'e_page'
 
 
 # To start webapp
