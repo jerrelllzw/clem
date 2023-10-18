@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Advanced Search</title>
+</head>
+<body>
+    <h1>Advanced Search</h1>
+    <form id="advancedSearchForm">
+        <label for="filterType">Filter By:</label>
+        <select id="filterType">
+            <option value="year">Year</option>
+            <option value="author">Author</option>
+            <option value="title">Title</option>
+            <option value="publisher">Publisher</option>
+        </select>
+
+        <div id="filterContainer">
+            <select id="condition">
+                <option value="before">Before</option>
+                <option value="after">After</option>
+                <option value="equals">Equals</option>
+                <option value="before_or_equals">Before or Equals</option>
+                <option value="after_or_equals">After or Equals</option>
+            </select>
+            <input type="text" id="year" placeholder="Enter Year">
+        </div>
+        
+        <button type="submit">Search</button>
+    </form>
+
+    <table id="resultsTable">
+        <thead>
+            <tr>
+                <th>Paper ID</th>
+                <th>Year Published</th>
+                <th>Title</th>
+                <th>Journal</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Results will be inserted here -->
+        </tbody>
+    </table>
+
+    <script>
+        document.getElementById('advancedSearchForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const data = {
+                filterType: document.getElementById('filterType').value,
+                year: document.getElementById('year').value,
+                condition: document.getElementById('condition').value
+            };
+
+            fetch('/advanced_search/results', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                const resultsTable = document.getElementById('resultsTable').getElementsByTagName('tbody')[0];
+                resultsTable.innerHTML = ""; // Clear previous results
+
+                data.forEach(item => {
+                    const row = resultsTable.insertRow();
+                    const titleCell = row.insertCell(0);
+                    const authorCell = row.insertCell(1);
+                    const yearCell = row.insertCell(2);
+                    const publisherCell = row.insertCell(3);
+
+                    titleCell.appendChild(document.createTextNode(item.title));
+                    authorCell.appendChild(document.createTextNode(item.author));
+                    yearCell.appendChild(document.createTextNode(item.year));
+                    publisherCell.appendChild(document.createTextNode(item.publisher));
+                });
+                const tableBody = document.querySelector('#resultsTable tbody');
+                    tableBody.innerHTML = '';
+                    data.forEach(publication => {
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                        <td>${publication.paper_id}</td>
+                        <td>${publication.year}</td>
+                        <td>${publication.paper.title}</td>
+                        <td>${publication.source.journal}</td>
+                    `;
+                        tableBody.appendChild(tr);
+                    });
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        //     fetch('/advanced_search/results', {
+        //         method: 'POST',
+        //         headers: {
+        //             'Content-Type': 'application/json'
+        //         },
+        //         body: JSON.stringify(data)
+        //     })
+        //         .then(response => {
+        //             document.getElementById('loading').style.display = 'none';
+        //             if (!response.ok) {
+        //                 throw new Error('Network response was not ok');
+        //             }
+        //             return response.json();
+        //         })
+        //         .then(data => {
+        //             console.log(data)
+        //             // const tableBody = document.querySelector('#resultsTable tbody');
+        //             // tableBody.innerHTML = '';
+        //             const resultsTable = document.getElementById('resultsTable').getElementsByTagName('tbody')[0];
+        //             resultsTable.innerHTML = ""
+        //             data.forEach(publication => {
+        //                 const tr = document.createElement('tr');
+        //                 tr.innerHTML = `
+        //                 <td>${publication.paper_id}</td>
+        //                 <td>${publication.year}</td>
+        //                 <td>${publication.paper.title}</td>
+        //                 <td>${publication.source.journal}</td>
+        //             `;
+        //                 tableBody.appendChild(tr);
+        //             });
+        //         })
+        //         .catch(error => {
+        //             console.error('There has been a problem with your fetch operation:', error);
+        //             document.getElementById('loading').style.display = 'none';
+        //             document.getElementById('error').style.display = 'block';
+        //         });
+        });
+
+        document.getElementById('filterType').addEventListener('change', function() {
+            const filterType = this.value;
+            const yearInput = document.getElementById('year');
+            const conditionSelect = document.getElementById('condition');
+
+            if (filterType === 'year') {
+                yearInput.style.display = '';
+                conditionSelect.style.display = '';
+            } else {
+                yearInput.style.display = 'none';
+                conditionSelect.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publication Search</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+
+<body>
+    <form id="searchForm">
+        <input type="text" id="fullname" placeholder="Author Full Name">
+        <input type="text" id="lastname" placeholder="Author Last Name">
+        <input type="text" id="firstname" placeholder="Author First Name">
+        <input type="text" id="year" placeholder="Year Published">
+        <input type="text" id="journal" placeholder="Journal">
+        <input type="text" id="journalarticletitle" placeholder="Title">
+        <input type="text" id="keyword" placeholder="Keywords">
+        <input type="text" id="paper_id" placeholder="Paper ID">
+        <button type="submit">Search</button>
+        <label for="searchType">Search Type:</label>
+        <select id="searchType">
+            <option value="or">OR</option>
+            <option value="and">AND</option>
+        </select>
+    </form>
+    <button onclick="window.location.href='/advanced_search';" type="button">Advanced Search</button>
+    <p id="loading" style="display:none;">Loading...</p>
+    <p id="error" style="display:none; color: red;">An error occurred. Please try again later.</p>
+
+    <table id="results">
+        <thead>
+            <tr>
+                <th>Paper ID</th>
+                <th>Year published</th>
+                <th>Title</th>
+                <th>Journal</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Results will be added here -->
+        </tbody>
+    </table>
+
+    <script>
+        document.getElementById('searchForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            document.getElementById('loading').style.display = 'block';
+            const data = {
+                fullname: document.getElementById('fullname').value,
+                lastname: document.getElementById('lastname').value,
+                firstname: document.getElementById('firstname').value,
+                year: document.getElementById('year').value,
+                journal: document.getElementById('journal').value,
+                journalarticletitle: document.getElementById('journalarticletitle').value,
+                keyword: document.getElementById('keyword').value,
+                paper_id: document.getElementById('paper_id').value,
+                searchType: document.getElementById('searchType').value
+            };
+            fetch('/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => {
+                    document.getElementById('loading').style.display = 'none';
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const tableBody = document.querySelector('#results tbody');
+                    tableBody.innerHTML = '';
+                    data.forEach(publication => {
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                        <td>${publication.paper_id}</td>
+                        <td>${publication.year}</td>
+                        <td>${publication.paper.title}</td>
+                        <td>${publication.source.journal}</td>
+                    `;
+                        tableBody.appendChild(tr);
+                    });
+                })
+                .catch(error => {
+                    console.error('There has been a problem with your fetch operation:', error);
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('error').style.display = 'block';
+                });
+        });
+    </script>
+</body>
+
+</html>

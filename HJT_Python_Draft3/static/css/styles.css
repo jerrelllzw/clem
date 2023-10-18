@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+button {
+    cursor: pointer;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid #4CAF50;
+}
+
+/* Add border to the entire table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 3px solid #4CAF50;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Add border to the table header */
+th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+    padding: 12px;
+    border: 1px solid #4CAF50;
+}
+
+/* Add border and padding to table cells */
+td {
+    text-align: left;
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+/* Add alternative row colors */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Highlight the row on hover */
+tr:hover {
+    background-color: #ddd;
+}
+
+/* Loading and Error messages */
+p#loading {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+p#error {
+    color: #D32F2F;
+    font-weight: bold;
+}

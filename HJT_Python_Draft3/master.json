@@ -1,0 +1,8762 @@
+[
+  {
+    "paper_id": 1,
+    "authors": [
+      {
+        "fname": "Anjan",
+        "lname": "Pal",
+        "cauthor": true,
+        "email": "anjanpal5@gmail.com"
+      },
+      {
+        "fname": "Alton Yeow Kuan",
+        "lname": "Chua",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Does KFC sell rat? Analysis of tweets in the wake of a rumor outbreak",
+      "keywords": [
+        "crisis informatics",
+        "user-generated content",
+        "social media",
+        "counter-rumor",
+        "online rumors",
+        "rumoring phenomena"
+      ]
+    },
+    "source": {
+      "journal": "Aslib Journal of Information Management",
+      "volume": 69,
+      "number": 6,
+      "pages": {
+        "s_page": 660,
+        "e_page": 673
+      }
+    }
+  },
+  {
+    "paper_id": 2,
+    "authors": [
+      {
+        "fname": "Richard",
+        "lname": "Huskey",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Turner",
+        "cauthor": false
+      },
+      {
+        "fname": "René",
+        "lname": "Weber",
+        "cauthor": true,
+        "email": "renew@ucsb.edu"
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Individual Differences in Brain Responses: New Opportunities for Tailoring Health Communication Campaigns",
+      "keywords": [
+        "prevention neuroscience",
+        "persuasion neuroscience",
+        "individual differences",
+        "public service announcements",
+        "health campaigns",
+        "media neuroscience"
+      ]
+    },
+    "source": {
+      "journal": "Frontiers in Human Neuroscience",
+      "volume": 14,
+      "number": -1,
+      "pages": {
+        "s_page": 173,
+        "e_page": 198
+      }
+    }
+  },
+  {
+    "paper_id": 3,
+    "authors": [
+      {
+        "fname": "Xin",
+        "lname": "Pei",
+        "cauthor": true,
+        "email": "PEIX0001@e.ntu.edu.sg"
+      },
+      {
+        "fname": "Arul",
+        "lname": "Chib",
+        "cauthor": false
+      }
+    ],
+    "year": 2021,
+    "paper": {
+      "title": "Beyond the gender (dis)empowerment dichotomy: The mobile phone as social catalyst for gender transformation in the Global South",
+      "keywords": [
+        "China",
+        "gender (dis)empowerment",
+        "Global South",
+        "marginalized women",
+        "mobile phone"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 23,
+      "number": 3,
+      "pages": {
+        "s_page": 578,
+        "e_page": 595
+      }
+    }
+  },
+  {
+    "paper_id": 4,
+    "authors": [
+      {
+        "fname": "Rajiv George",
+        "lname": "Aricat",
+        "cauthor": true,
+        "email": "r.aricat@gmail.com"
+      },
+      {
+        "fname": "Veronika",
+        "lname": "Karnowski",
+        "cauthor": false
+      },
+      {
+        "fname": "Arul",
+        "lname": "Chib",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Mobile Phone Appropriation and Migrant Acculturation: A Case Study of an Indian Community in Singapore",
+      "keywords": [
+        "appropriation",
+        "acculturation",
+        "communication",
+        "migrant",
+        "mobile phone",
+        "qualitative method"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Communication",
+      "volume": 9,
+      "number": 1,
+      "pages": {
+        "s_page": 2221,
+        "e_page": 2242
+      }
+    }
+  },
+  {
+    "paper_id": 5,
+    "authors": [
+      {
+        "fname": "Zhang",
+        "lname": "Weiyu",
+        "cauthor": true,
+        "email": "cnmzw@nus.edu.sg"
+      },
+      {
+        "fname": "Arul",
+        "lname": "Chib",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Internet Studies and Development Discourses: The Cases of China and India",
+      "keywords": [
+        "China",
+        "discourse analysis",
+        "India",
+        "Internet",
+        "liberation",
+        "modernization"
+      ]
+    },
+    "source": {
+      "journal": "Information Technology for Development",
+      "volume": 20,
+      "number": 4,
+      "pages": {
+        "s_page": 324,
+        "e_page": 338
+      }
+    }
+  },
+  {
+    "paper_id": 6,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Mark",
+        "lname": "Cenite",
+        "cauthor": false
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      },
+      {
+        "fname": "Rachel",
+        "lname": "Neo",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "Examining Education and Newsroom Work Experience as Predictors of Communication Students’ Perceptions of Journalism Ethics",
+      "keywords": [
+        "journalism",
+        "ethics",
+        "education",
+        "idealism",
+        "relativism",
+        "survey"
+      ]
+    },
+    "source": {
+      "journal": "Journalism & Mass Communication Educator",
+      "volume": 67,
+      "number": 1,
+      "pages": {
+        "s_page": 45,
+        "e_page": 69
+      }
+    }
+  },
+  {
+    "paper_id": 7,
+    "authors": [
+      {
+        "fname": "Richard",
+        "lname": "Ling",
+        "cauthor": true,
+        "email": "rili@itu.dk"
+      },
+      {
+        "fname": "Heather",
+        "lname": "Horst",
+        "cauthor": false
+      }
+    ],
+    "year": 2011,
+    "paper": {
+      "title": "Mobile communication in the global south",
+      "keywords": [
+        "development",
+        "gender",
+        "global south",
+        "mobile communication",
+        "social change"
+      ]
+    },
+    "source": {
+      "journal": "Journalism & Mass Communication Educator",
+      "volume": 13,
+      "number": 3,
+      "pages": {
+        "s_page": 363,
+        "e_page": 374
+      }
+    }
+  },
+  {
+    "paper_id": 8,
+    "authors": [
+      {
+        "fname": "Arul",
+        "lname": "Chib",
+        "cauthor": true,
+        "email": "arulchib@ntu.edu.sg"
+      },
+      {
+        "fname": "Sapphire",
+        "lname": "Lin",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Theoretical Advancements in mHealth: A Systematic Review of Mobile Apps",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Health Communication",
+      "volume": 23,
+      "number": 10,
+      "pages": {
+        "s_page": 909,
+        "e_page": 955
+      }
+    }
+  },
+  {
+    "paper_id": 9,
+    "authors": [
+      {
+        "fname": "Nicola",
+        "lname": "Brew-Sam",
+        "cauthor": false
+      },
+      {
+        "fname": "Arul",
+        "lname": "Chib",
+        "cauthor": true,
+        "email": "arulchib@ntu.edu.sg"
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "How Do Smart Device Apps for Diabetes Self-Management Correspond with Theoretical Indicators of Empowerment? An Analysis of App Features",
+      "keywords": [
+        "Applications",
+        "Diabetes/endocrinology",
+        "Empowerment",
+        "Self-management",
+        "Smartphone",
+        "Telemedicine"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Technology Assessment in Health Care",
+      "volume": 35,
+      "number": 2,
+      "pages": {
+        "s_page": 150,
+        "e_page": 159
+      }
+    }
+  },
+  {
+    "paper_id": 10,
+    "authors": [
+      {
+        "fname": "Arul",
+        "lname": "Chib",
+        "cauthor": true,
+        "email": "arulchib@ntu.edu.sg"
+      },
+      {
+        "fname": "Rajiv George",
+        "lname": "Aricat",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Belonging and communicating in a bounded cosmopolitanism: the role of mobile phones in the integration of transnational migrants in Singapore",
+      "keywords": [
+        "ICT",
+        "mobile phone",
+        "migrants",
+        "acculturation",
+        "cultural identity",
+        "organizational commitment",
+        "cosmopolitanism",
+        "integration"
+      ]
+    },
+    "source": {
+      "journal": "Information, Communication & Society",
+      "volume": 20,
+      "number": 3,
+      "pages": {
+        "s_page": 482,
+        "e_page": 496
+      }
+    }
+  },
+  {
+    "paper_id": 11,
+    "authors": [
+      {
+        "fname": "Douglas",
+        "lname": "Mcleod",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      }
+    ],
+    "year": 1999,
+    "paper": {
+      "title": "Framing Effects of Television News Coverage of Social Protest",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Communication",
+      "volume": 49,
+      "number": 3,
+      "pages": {
+        "s_page": 3,
+        "e_page": 23
+      }
+    }
+  },
+  {
+    "paper_id": 12,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Byron",
+        "lname": "Reeves",
+        "cauthor": false
+      }
+    ],
+    "year": 1996,
+    "paper": {
+      "title": "A bio-informational theory of emotion: Motion and image size effects on viewers",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Communication",
+      "volume": 46,
+      "number": 3,
+      "pages": {
+        "s_page": 66,
+        "e_page": 84
+      }
+    }
+  },
+  {
+    "paper_id": 13,
+    "authors": [
+      {
+        "fname": "William",
+        "lname": "Eveland",
+        "cauthor": true,
+        "email": "eveland@sscf.ucsb.edu"
+      },
+      {
+        "fname": "Amy",
+        "lname": "Nathanson",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Douglas",
+        "lname": "McLeod",
+        "cauthor": false
+      }
+    ],
+    "year": 1999,
+    "paper": {
+      "title": "Rethinking the Social Distance CorollaryPerceived Likelihood of Expsoure and the Third-Person Perception",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Communication Research",
+      "volume": 26,
+      "number": 3,
+      "pages": {
+        "s_page": 275,
+        "e_page": 302
+      }
+    }
+  },
+  {
+    "paper_id": 14,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Robert",
+        "lname": "Simons",
+        "cauthor": false
+      }
+    ],
+    "year": 1998,
+    "paper": {
+      "title": "Roll 'em!: The Effects of Picture Motion on Emotional Responses",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Broadcasting & Electronic Media",
+      "volume": 42,
+      "number": 1,
+      "pages": {
+        "s_page": 113,
+        "e_page": 127
+      }
+    }
+  },
+  {
+    "paper_id": 15,
+    "authors": [
+      {
+        "fname": "Douglas",
+        "lname": "Mcleod",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "William",
+        "lname": "Eveland",
+        "cauthor": false
+      }
+    ],
+    "year": 2001,
+    "paper": {
+      "title": "Behind the third‐person effect: Differentiating perceptual processes for self and other",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Communication",
+      "volume": 51,
+      "number": 4,
+      "pages": {
+        "s_page": 678,
+        "e_page": 695
+      }
+    }
+  },
+  {
+    "paper_id": 16,
+    "authors": [
+      {
+        "fname": "Robert",
+        "lname": "Simons",
+        "cauthor": true,
+        "email": "rsimons@udel.edu"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Thomas",
+        "lname": "Roedema",
+        "cauthor": false
+      },
+      {
+        "fname": "Jason",
+        "lname": "Reiss",
+        "cauthor": false
+      }
+    ],
+    "year": 1999,
+    "paper": {
+      "title": "Emotion processing in three systems: The medium and the message",
+      "keywords": [
+        "Emotion",
+        "Media",
+        "Heart rate",
+        "Skin conductance",
+        "EMG"
+      ]
+    },
+    "source": {
+      "journal": "Psychophysiology",
+      "volume": 36,
+      "number": 5,
+      "pages": {
+        "s_page": 619,
+        "e_page": 627
+      }
+    }
+  },
+  {
+    "paper_id": 17,
+    "authors": [
+      {
+        "fname": "Bee Hian",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Li Chuan",
+        "lname": "Sim",
+        "cauthor": false
+      },
+      {
+        "fname": "Trevor Mon Kiat",
+        "lname": "Tan",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      }
+    ],
+    "year": 2004,
+    "paper": {
+      "title": "Getting to Know You: Exploring the Development of Relational Intimacy in Computer‐mediated Communication",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Computer-Mediated Communication",
+      "volume": 9,
+      "number": 3,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 18,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Elaine W.J.",
+        "lname": "Ng",
+        "cauthor": false
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "The impact of synchronicity and civility in online political discussions on perceptions and intentions to participate",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Computer-Mediated Communication",
+      "volume": 10,
+      "number": 3,
+      "pages": {
+        "s_page": 1033,
+        "e_page": 1033
+      }
+    }
+  },
+  {
+    "paper_id": 19,
+    "authors": [
+      {
+        "fname": "Lars",
+        "lname": "Willnat",
+        "cauthor": true,
+        "email": "lwillnat@gwu.edu"
+      },
+      {
+        "fname": "Waipeng",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      }
+    ],
+    "year": 2002,
+    "paper": {
+      "title": "Individual‐level predictors of public outspokenness: A test of the Spiral of Silence Theory in Singapore",
+      "keywords": []
+    },
+    "source": {
+      "journal": "International Journal of Public Opinion Research",
+      "volume": 14,
+      "number": 4,
+      "pages": {
+        "s_page": 391,
+        "e_page": 412
+      }
+    }
+  },
+  {
+    "paper_id": 20,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Robert",
+        "lname": "Simons",
+        "cauthor": false
+      },
+      {
+        "fname": "Bruce",
+        "lname": "Cuthbert",
+        "cauthor": false
+      },
+      {
+        "fname": "David",
+        "lname": "Schwartz",
+        "cauthor": false
+      }
+    ],
+    "year": 2003,
+    "paper": {
+      "title": "Attention to television: Alpha power and its relationship to image motion and emotional content",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Media psychology",
+      "volume": 5,
+      "number": 3,
+      "pages": {
+        "s_page": 283,
+        "e_page": 301
+      }
+    }
+  },
+  {
+    "paper_id": 21,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Robert",
+        "lname": "Simons",
+        "cauthor": false
+      },
+      {
+        "fname": "Jason",
+        "lname": "Reiss",
+        "cauthor": false
+      }
+    ],
+    "year": 2000,
+    "paper": {
+      "title": "The Emotional Significance of Color in Television Presentations",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Media Psychology",
+      "volume": 2,
+      "number": 4,
+      "pages": {
+        "s_page": 331,
+        "e_page": 355
+      }
+    }
+  },
+  {
+    "paper_id": 22,
+    "authors": [
+      {
+        "fname": "Mark",
+        "lname": "Cenite",
+        "cauthor": true,
+        "email": "macenite@pmail.ntu.edu.sg"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Andy",
+        "lname": "Koh",
+        "cauthor": false
+      },
+      {
+        "fname": "Alvin",
+        "lname": "Lim",
+        "cauthor": false
+      },
+      {
+        "fname": "Ee Soon",
+        "lname": "Ng",
+        "cauthor": false
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "Doing the right thing online: a survey of bloggers' ethical beliefs and practices",
+      "keywords": [
+        "Blog",
+        "Ethics",
+        "Demographics",
+        "Ethical beliefs",
+        "Ethical practices",
+        "Ethics code",
+        "Survey"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 11,
+      "number": 4,
+      "pages": {
+        "s_page": 575,
+        "e_page": 597
+      }
+    }
+  },
+  {
+    "paper_id": 23,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Mark",
+        "lname": "Cenite",
+        "cauthor": false
+      },
+      {
+        "fname": "Moses",
+        "lname": "Ku",
+        "cauthor": false
+      },
+      {
+        "fname": "Carol",
+        "lname": "Ong",
+        "cauthor": false
+      },
+      {
+        "fname": "Hazel",
+        "lname": "Tong",
+        "cauthor": false
+      },
+      {
+        "fname": "Magdalene",
+        "lname": "Yeow",
+        "cauthor": false
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "SINGAPOREANS’ ATTITUDES TOWARD LESBIANS AND GAY MEN AND THEIR TOLERANCE OF MEDIA PORTRAYALS OF HOMOSEXUALITY",
+      "keywords": []
+    },
+    "source": {
+      "journal": "International Journal of Public Opinion Research",
+      "volume": 19,
+      "number": 3,
+      "pages": {
+        "s_page": 367,
+        "e_page": 379
+      }
+    }
+  },
+  {
+    "paper_id": 24,
+    "authors": [
+      {
+        "fname": "Faith",
+        "lname": "Gan",
+        "cauthor": false
+      },
+      {
+        "fname": "Joo Leng",
+        "lname": "Teo",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "FRAMING THE BATTLE FOR THE WHITE HOUSE A Comparison of Two National Newspapers’ Coverage of the 2000 United States Presidential Election",
+      "keywords": [
+        "Content analysis",
+        "Election coverage",
+        "Framing",
+        "France",
+        "Horse race",
+        "Newspaper",
+        "Objectivity",
+        "Political communication",
+        "Singapore",
+        "United States"
+      ]
+    },
+    "source": {
+      "journal": "Gazette (Leiden, Netherlands)",
+      "volume": 67,
+      "number": 5,
+      "pages": {
+        "s_page": 441,
+        "e_page": 467
+      }
+    }
+  },
+  {
+    "paper_id": 25,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Melissa",
+        "lname": "Gotlieb",
+        "cauthor": false
+      },
+      {
+        "fname": "Douglas",
+        "lname": "McLeod",
+        "cauthor": false
+      },
+      {
+        "fname": "Olga",
+        "lname": "Malinkina",
+        "cauthor": false
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "Frame Intensity Effects of Television News Stories About a High-Visibility Protest Issue",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Mass Communication & Society",
+      "volume": 10,
+      "number": 4,
+      "pages": {
+        "s_page": 439,
+        "e_page": 460
+      }
+    }
+  },
+  {
+    "paper_id": 26,
+    "authors": [
+      {
+        "fname": "Robert",
+        "lname": "Simons",
+        "cauthor": true,
+        "email": "rsimons@udel.edu"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Jason",
+        "lname": "Reiss",
+        "cauthor": false
+      },
+      {
+        "fname": "Christopher",
+        "lname": "Shults",
+        "cauthor": false
+      }
+    ],
+    "year": 2000,
+    "paper": {
+      "title": "Image motion and context: A between-and within-subjects comparison",
+      "keywords": [
+        "Emotion",
+        "Arousal",
+        "Motion",
+        "Media"
+      ]
+    },
+    "source": {
+      "journal": "Psychophysiology",
+      "volume": 37,
+      "number": 5,
+      "pages": {
+        "s_page": 706,
+        "e_page": 710
+      }
+    }
+  },
+  {
+    "paper_id": 27,
+    "authors": [
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Sonny",
+        "lname": "Rosenthal",
+        "cauthor": false
+      },
+      {
+        "fname": "Edmund",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Seeking Information About Climate Change: Effects of Media Use in an Extended PRISM",
+      "keywords": [
+        "Risk information seeking",
+        "Climate change",
+        "Singapore",
+        "Media",
+        "Information sufficiency"
+      ]
+    },
+    "source": {
+      "journal": "Science Communication",
+      "volume": 36,
+      "number": 3,
+      "pages": {
+        "s_page": 270,
+        "e_page": 295
+      }
+    }
+  },
+  {
+    "paper_id": 28,
+    "authors": [
+      {
+        "fname": "Waipeng",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "TWPLEE@ntu.edu.sg"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Lars",
+        "lname": "Willnat",
+        "cauthor": false
+      },
+      {
+        "fname": "Sean",
+        "lname": "Aday",
+        "cauthor": false
+      },
+      {
+        "fname": "Joseph",
+        "lname": "Graf",
+        "cauthor": false
+      }
+    ],
+    "year": 2004,
+    "paper": {
+      "title": "A Cross-cultural Test of the Spiral of Silence Theory in Singapore and the United States",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 14,
+      "number": 2,
+      "pages": {
+        "s_page": 205,
+        "e_page": 226
+      }
+    }
+  },
+  {
+    "paper_id": 29,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "Rachel",
+        "lname": "Neo",
+        "cauthor": false
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      },
+      {
+        "fname": "Mark",
+        "lname": "Cenite",
+        "cauthor": false
+      }
+    ],
+    "year": 2013,
+    "paper": {
+      "title": "Influence of value predispositions, interpersonal contact, and mediated exposure on public attitudes toward homosexuals in Singapore",
+      "keywords": [
+        "Attitudes",
+        "Acceptance",
+        "Homosexuality",
+        "Public opinion",
+        "Religiosity",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Social Psychology",
+      "volume": 16,
+      "number": 3,
+      "pages": {
+        "s_page": 181,
+        "e_page": 196
+      }
+    }
+  },
+  {
+    "paper_id": 30,
+    "authors": [
+      {
+        "fname": "Stella",
+        "lname": "Chia",
+        "cauthor": true,
+        "email": "tcychia@ntu.edu.sg"
+      },
+      {
+        "fname": "Hairong",
+        "lname": "Li",
+        "cauthor": true,
+        "email": "hairong@msu.edu"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Waipeng",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "twplee@ntu.edu.sg"
+      }
+    ],
+    "year": 2006,
+    "paper": {
+      "title": "Mining the internet plateau: an exploration of the adoption intention of non-users in Singapore",
+      "keywords": [
+        "Adoption",
+        "Diffusion theory",
+        "Internet",
+        "Singapore",
+        "Subjective norm",
+        "Survey",
+        "Theory of planned behavior"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 8,
+      "number": 4,
+      "pages": {
+        "s_page": 589,
+        "e_page": 609
+      }
+    }
+  },
+  {
+    "paper_id": 31,
+    "authors": [
+      {
+        "fname": "Stella",
+        "lname": "Chia",
+        "cauthor": false
+      },
+      {
+        "fname": "Hairong",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Waipeng",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2006,
+    "paper": {
+      "title": "Mining the internet plateau: an exploration of the adoption intention of non-users in Singapore",
+      "keywords": [
+        "adoption",
+        "diffusion theory",
+        "internet",
+        "Singapore",
+        "subjective norm",
+        "survey",
+        "theory of planned behavior"
+      ]
+    },
+    "source": {
+      "journal": "New Media and Society",
+      "volume": 8,
+      "number": 4,
+      "pages": {
+        "s_page": 589,
+        "e_page": 609
+      }
+    }
+  },
+  {
+    "paper_id": 32,
+    "authors": [
+      {
+        "fname": "Kenny",
+        "lname": "Tan",
+        "cauthor": false
+      },
+      {
+        "fname": "Debbie",
+        "lname": "Swee",
+        "cauthor": false
+      },
+      {
+        "fname": "Corrine",
+        "lname": "Lim",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Lubna",
+        "lname": "Alsagoff",
+        "cauthor": false
+      }
+    ],
+    "year": 2008,
+    "paper": {
+      "title": "The Impact of Language Variety and Expertise on Perceptions of Online Political Discussions",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Computer-Mediated Communication",
+      "volume": 13,
+      "number": 1,
+      "pages": {
+        "s_page": 76,
+        "e_page": 99
+      }
+    }
+  },
+  {
+    "paper_id": 33,
+    "authors": [
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Thanomwong",
+        "lname": "Poorisat",
+        "cauthor": false
+      },
+      {
+        "fname": "Rachel",
+        "lname": "Neo",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Examining how presumed media influence affects social norms and adolescents' attitudes and drinking behavior intentions in rural Thailand",
+      "keywords": [
+        "influence of presumed media influence",
+        "descriptive norms",
+        "subjective norms",
+        "injunctive norms",
+        "underage drinking"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Health Communication",
+      "volume": 19,
+      "number": 3,
+      "pages": {
+        "s_page": 282,
+        "e_page": 302
+      }
+    }
+  },
+  {
+    "paper_id": 34,
+    "authors": [
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      },
+      {
+        "fname": "Rachel",
+        "lname": "Neo",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "The Roles of Value Predispositions, Communication, and Third Person Perception on Public Support for Censorship of Films with Homosexual Content",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 22,
+      "number": 1,
+      "pages": {
+        "s_page": 78,
+        "e_page": 97
+      }
+    }
+  },
+  {
+    "paper_id": 35,
+    "authors": [
+      {
+        "fname": "Sonny",
+        "lname": "Rosenthal",
+        "cauthor": false,
+        "email": "sonnyrosenthal@ntu.edu.sg"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Hernando",
+        "lname": "Rojas",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Efficacy Beliefs in Third-Person Effects",
+      "keywords": [
+        "third-person effect",
+        "efficacy",
+        "self-regulation",
+        "censorship",
+        "sexual content"
+      ]
+    },
+    "source": {
+      "journal": "Communication Research",
+      "volume": 45,
+      "number": 4,
+      "pages": {
+        "s_page": 554,
+        "e_page": 576
+      }
+    }
+  },
+  {
+    "paper_id": 36,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Sonny",
+        "lname": "Rosenthal",
+        "cauthor": false
+      },
+      {
+        "fname": "Youqing",
+        "lname": "Liao",
+        "cauthor": false
+      },
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Audience Segmentation for Campaign Design: Addressing Climate Change in Singapore",
+      "keywords": [
+        "Climate change",
+        "Communication behavior",
+        "National survey",
+        "Public opinion",
+        "Segmentation analysis"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Communication",
+      "volume": 10,
+      "pages": {
+        "s_page": 4736,
+        "e_page": 4758
+      }
+    }
+  },
+  {
+    "paper_id": 37,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "Adeline",
+        "lname": "Ong",
+        "cauthor": false
+      },
+      {
+        "fname": "Nigel",
+        "lname": "Lim",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Complementary versus competitive framing effects in the context of pro‑environmental attitudes and behaviors",
+      "keywords": [
+        "framing theory",
+        "climate change communication",
+        "competitive framing",
+        "pro-environmental behavior",
+        "green energy technology"
+      ]
+    },
+    "source": {
+      "journal": "Science Communication",
+      "volume": 40,
+      "number": 2,
+      "pages": {
+        "s_page": 173,
+        "e_page": 198
+      }
+    }
+  },
+  {
+    "paper_id": 38,
+    "authors": [
+      {
+        "fname": "Hairong",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Waipeng",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Stella",
+        "lname": "Chia",
+        "cauthor": false
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "E-Government in Singapore: Demographics, Usage Patterns, and Perceptions",
+      "keywords": [
+        "internet use",
+        "government websites",
+        "user demographics",
+        "channel selection",
+        "perceived usefulness",
+        "perceived ease of use",
+        "online privacy and security",
+        "civic participation"
+      ]
+    },
+    "source": {
+      "journal": "Journal of E-Government",
+      "volume": 1,
+      "number": 3,
+      "pages": {
+        "s_page": 29,
+        "e_page": 54
+      }
+    }
+  },
+  {
+    "paper_id": 39,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Mark",
+        "lname": "Cenite",
+        "cauthor": false
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      },
+      {
+        "fname": "Rachel",
+        "lname": "Neo",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "Examining education and newsroom work experience as predictors of communication students’ perceptions of journalism ethics",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journalism & Mass Communication Educator",
+      "volume": 67,
+      "number": 1,
+      "pages": {
+        "s_page": 45,
+        "e_page": 69
+      }
+    }
+  },
+  {
+    "paper_id": 40,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Mark",
+        "lname": "Cenite",
+        "cauthor": false
+      },
+      {
+        "fname": "Shuhua",
+        "lname": "Zhou",
+        "cauthor": false
+      },
+      {
+        "fname": "Rachel",
+        "lname": "Neo",
+        "cauthor": false
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Rights versus morality : online debate about decriminalization of gay sex in Singapore",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Jounral of Homosexuality",
+      "volume": 61,
+      "number": 9,
+      "pages": {
+        "s_page": 1313,
+        "e_page": 1333
+      }
+    }
+  },
+  {
+    "paper_id": 41,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Anita",
+        "lname": "Sheldenkar",
+        "cauthor": false
+      },
+      {
+        "fname": "Chitra",
+        "lname": "Panchapakesan",
+        "cauthor": true,
+        "email": "chitrapk@ntu.edu.sg"
+      }
+    ],
+    "year": 2021,
+    "paper": {
+      "title": "A Digital Mobile Community App for Caregivers in Singapore:Predevelopment and Usability Study",
+      "keywords": [
+        "caregiving",
+        "technological solution",
+        "mobile application",
+        "easy communication",
+        "caregiver",
+        "mobile app",
+        "communication",
+        "elderly",
+        "aging population",
+        "internet technology",
+        "community network",
+        "network"
+      ]
+    },
+    "source": {
+      "journal": "JMIR Nursing",
+      "volume": 4,
+      "number": 2,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 42,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Jiahui",
+        "lname": "Lu",
+        "cauthor": false
+      },
+      {
+        "fname": "Anita",
+        "lname": "Sheldenkar",
+        "cauthor": false
+      },
+      {
+        "fname": "Chitra",
+        "lname": "Panchapakesan",
+        "cauthor": false
+      },
+      {
+        "fname": "Yi-Roe",
+        "lname": "Tan",
+        "cauthor": false
+      },
+      {
+        "fname": "Peiling",
+        "lname": "Yap",
+        "cauthor": false
+      },
+      {
+        "fname": "Mark",
+        "lname": "Chen",
+        "cauthor": false
+      },
+      {
+        "fname": "Vincent",
+        "lname": "Chow",
+        "cauthor": false
+      },
+      {
+        "fname": "Koh Cheng",
+        "lname": "Thoon",
+        "cauthor": false
+      },
+      {
+        "fname": "Chee Fu",
+        "lname": "Yung",
+        "cauthor": false
+      },
+      {
+        "fname": "Li Wei",
+        "lname": "Ang",
+        "cauthor": false
+      },
+      {
+        "fname": "Brenda",
+        "lname": "Ang",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Effectiveness of a Mobile-Based Influenza-Like Illness Surveillance System (FluMob) Among Health Care Workers: Longitudinal Study",
+      "keywords": [
+        "participatory surveillance",
+        "syndromic surveillance",
+        "mobile phone",
+        "influenza-like illness",
+        "health care workers"
+      ]
+    },
+    "source": {
+      "journal": "JMIR Mhealth Uhealth",
+      "volume": 8,
+      "number": 12,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 43,
+    "authors": [
+      {
+        "fname": "Jiahui",
+        "lname": "Lu",
+        "cauthor": false
+      },
+      {
+        "fname": "Anita",
+        "lname": "Sheldenkar",
+        "cauthor": true,
+        "email": "anitas@ntu.edu.sg"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "A decade of antimicrobial resistance research in social science felds: a scientometric review",
+      "keywords": [
+        "Antimicrobial resistance",
+        "Antibiotic resistance",
+        "Social science",
+        "One health",
+        "Bibliometrics",
+        "Interdisciplinary"
+      ]
+    },
+    "source": {
+      "journal": "Antimicrobial Resistance and Infection Control",
+      "volume": 9,
+      "number": 178,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 44,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Jiahui",
+        "lname": "Lu",
+        "cauthor": false
+      },
+      {
+        "fname": "Anita",
+        "lname": "Sheldenkar",
+        "cauthor": true,
+        "email": "anitas@ntu.edu.sg"
+      },
+      {
+        "fname": "Peter",
+        "lname": "Schulz",
+        "cauthor": false
+      },
+      {
+        "fname": "Wonsun",
+        "lname": "Shin",
+        "cauthor": false
+      },
+      {
+        "fname": "Raj",
+        "lname": "Gupta",
+        "cauthor": false
+      },
+      {
+        "fname": "Yinping",
+        "lname": "Yang",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Global Sentiments Surrounding the COVID-19 Pandemic on Twitter: Analysis of Twitter Trends",
+      "keywords": [
+        "COVID-19",
+        "Twitter",
+        "pandemic",
+        "social sentiments",
+        "emotions",
+        "infodemic"
+      ]
+    },
+    "source": {
+      "journal": "JMIR Public Health and Surveillence",
+      "volume": 6,
+      "number": 2,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 45,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      },
+      {
+        "fname": "Jun Rong",
+        "lname": "Neo",
+        "cauthor": true,
+        "email": "jn458@cornell.edu"
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Effects of Scent and Scent Emission Methods: Implications on Workers’ Alertness, Vigilance, and Memory under Fatigue Conditions",
+      "keywords": [
+        "ambient scent",
+        "scent emission methods",
+        "affect intensity",
+        "eye-tracking",
+        "environmental psychology"
+      ]
+    },
+    "source": {
+      "journal": "Environment and Behavior",
+      "volume": 0,
+      "number": 0,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 46,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      },
+      {
+        "fname": "Jerrald",
+        "lname": "Lau",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Association between food availability and young people’s fruits and vegetables consumption: understanding the mediation role of the theory of planned behaviour",
+      "keywords": [
+        "Fruit and vegetable consumption",
+        "Food availability",
+        "Theory of planned behaviour"
+      ]
+    },
+    "source": {
+      "journal": "Cambridge University Press",
+      "volume": 23,
+      "number": 12,
+      "pages": {
+        "s_page": 2155,
+        "e_page": 2164
+      }
+    }
+  },
+  {
+    "paper_id": 47,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Jiahui",
+        "lname": "Lu",
+        "cauthor": true,
+        "email": "lujiahui@tju.edu.cn"
+      },
+      {
+        "fname": "Ysa",
+        "lname": "Cayabyab",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrew",
+        "lname": "Yee",
+        "cauthor": false
+      },
+      {
+        "fname": "Helen",
+        "lname": "Smith",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Temporal and textual analysis of social media on collective discourses during the Zika virus pandemic",
+      "keywords": [
+        "Zika",
+        "Social media",
+        "Facebook",
+        "Twitter",
+        "Public health",
+        "Health communication"
+      ]
+    },
+    "source": {
+      "journal": "BMC Public Health",
+      "volume": 20,
+      "number": 804,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 48,
+    "authors": [
+      {
+        "fname": "Hye Kyung",
+        "lname": "Kim",
+        "cauthor": true,
+        "email": "hkkim@ntu.edu.sg"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Cultural Determinants of Cancer Fatalism and Cancer Prevention Behaviors among Asians in Singapore",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Health Communication",
+      "volume": 36,
+      "number": 8,
+      "pages": {
+        "s_page": 940,
+        "e_page": 949
+      }
+    }
+  },
+  {
+    "paper_id": 49,
+    "authors": [
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": false
+      },
+      {
+        "fname": "Minyi",
+        "lname": "Chen",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Development and validation of a parental social media mediation scale across child and parent samples",
+      "keywords": [
+        "Social media",
+        "Conceptualization",
+        "Scale development",
+        "Operationalization",
+        "Parental mediation"
+      ]
+    },
+    "source": {
+      "journal": "Internet Research",
+      "volume": 30,
+      "number": 2,
+      "pages": {
+        "s_page": 677,
+        "e_page": 694
+      }
+    }
+  },
+  {
+    "paper_id": 50,
+    "authors": [
+      {
+        "fname": "Hillbun",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "dixonho@ntu.edu.sg"
+      },
+      {
+        "fname": "Wonsun",
+        "lname": "Shin",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Social Networking Site Use and Materialistic Values Among Youth: The Safeguarding Role of the Parent-Child Relationship and Self-Regulation",
+      "keywords": [
+        "social network site",
+        "materialism",
+        "self-regulation",
+        "parent-child relationship",
+        "social perception"
+      ]
+    },
+    "source": {
+      "journal": "Communication Research",
+      "volume": 46,
+      "number": 8,
+      "pages": {
+        "s_page": 1119,
+        "e_page": 1144
+      }
+    }
+  },
+  {
+    "paper_id": 51,
+    "authors": [
+      {
+        "fname": "Andrew",
+        "lname": "Yee",
+        "cauthor": true,
+        "email": "andrew_yee@sutd.edu.sg"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Jerrald",
+        "lname": "Lau",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Parental Guidance and Children’s Healthy Food Consumption: Integrating the Theory of Planned Behavior with Interpersonal Communication Antecedents",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Health Communication",
+      "volume": 24,
+      "number": 2,
+      "pages": {
+        "s_page": 183,
+        "e_page": 194
+      }
+    }
+  },
+  {
+    "paper_id": 52,
+    "authors": [
+      {
+        "fname": "Hillbun",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "dixonho@ntu.edu.sg"
+      },
+      {
+        "fname": "Wonsun",
+        "lname": "Shin",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Social Networking Site Use and Materialistic Values Among Youth: The Safeguarding Role of the Parent-Child Relationship and Self-Regulation",
+      "keywords": [
+        "social network site",
+        "materialism",
+        "self-regulation",
+        "parent-child relationship",
+        "social perception"
+      ]
+    },
+    "source": {
+      "journal": "Communication Research",
+      "volume": 46,
+      "number": 8,
+      "pages": {
+        "s_page": 1119,
+        "e_page": 1144
+      }
+    }
+  },
+  {
+    "paper_id": 53,
+    "authors": [
+      {
+        "fname": "Augustine",
+        "lname": "Pang",
+        "cauthor": true,
+        "email": "augustine@smu.edu.sg"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Chrystal",
+        "lname": "Ng",
+        "cauthor": false
+      },
+      {
+        "fname": "Ying-Kai",
+        "lname": "Ong",
+        "cauthor": false
+      },
+      {
+        "fname": "Shannon",
+        "lname": "Chau",
+        "cauthor": false
+      },
+      {
+        "fname": "Kristle",
+        "lname": "Yeow",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Utilization of CSR to build organizations’ corporate image in Asia: need for an integrative approach",
+      "keywords": [
+        "Strategic communication",
+        "content analysis",
+        "in-depth interview",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 28,
+      "number": 4,
+      "pages": {
+        "s_page": 335,
+        "e_page": 359
+      }
+    }
+  },
+  {
+    "paper_id": 54,
+    "authors": [
+      {
+        "fname": "Gergana",
+        "lname": "Nenkov",
+        "cauthor": false
+      },
+      {
+        "fname": "Maureen",
+        "lname": "Morrin",
+        "cauthor": false
+      },
+      {
+        "fname": "Virginie",
+        "lname": "Maille",
+        "cauthor": false
+      },
+      {
+        "fname": "Tracy",
+        "lname": "Rank-Christman",
+        "cauthor": true,
+        "email": "rankchri@uwm.edu"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Sense and sensibility: The impact of visual and auditory sensory input on marketplace morality",
+      "keywords": [
+        "Moral judgment",
+        "Marketplace morality",
+        "Ethical consumer decisions",
+        "Sensory input",
+        "Construal level",
+        "Moral mindset"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Business Research",
+      "volume": 95,
+      "number": 1,
+      "pages": {
+        "s_page": 428,
+        "e_page": 441
+      }
+    }
+  },
+  {
+    "paper_id": 55,
+    "authors": [
+      {
+        "fname": "Jim",
+        "lname": "Macnamara",
+        "cauthor": false
+      },
+      {
+        "fname": "Ansgar",
+        "lname": "Zerfass",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Ana",
+        "lname": "Adi",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "PR and Communication Management in Asia-Pacific: Trends, Growth and Gaps",
+      "keywords": [
+        "Public relations",
+        "PR",
+        "communication management",
+        "strategic communication",
+        "Asia-Pacific"
+      ]
+    },
+    "source": {
+      "journal": "Communication and Media in Asia Pacific (CMAP)",
+      "volume": 1,
+      "number": 1,
+      "pages": {
+        "s_page": 1,
+        "e_page": 16
+      }
+    }
+  },
+  {
+    "paper_id": 56,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      },
+      {
+        "fname": "Vernon",
+        "lname": "Beng",
+        "cauthor": false
+      },
+      {
+        "fname": "Grace",
+        "lname": "Chen",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Disparities in the impact of a community hypertension education programme across age, gender, race and housing type",
+      "keywords": [
+        "Disparities",
+        "gender",
+        "housing type",
+        "hypertension",
+        "inequality",
+        "race",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "journal": "Health Education Journal",
+      "volume": 77,
+      "number": 5,
+      "pages": {
+        "s_page": 555,
+        "e_page": 570
+      }
+    }
+  },
+  {
+    "paper_id": 57,
+    "authors": [
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": true,
+        "email": "ch0087ng@ntu.edu.sg"
+      },
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "A meta-analysis of factors predicting cyberbullying perpetration and victimization: From the social cognitive and media effects approach",
+      "keywords": [
+        "Cyberbullying perpetration",
+        "cyberbullying victimization",
+        "media effects",
+        "meta-analysis",
+        "social cognition"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 19,
+      "number": 8,
+      "pages": {
+        "s_page": 1194,
+        "e_page": 1213
+      }
+    }
+  },
+  {
+    "paper_id": 58,
+    "authors": [
+      {
+        "fname": "Edmund",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "elwj88@gmail.com"
+      },
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Extending the social cognitive model -- Examining the external and personal antecedents of social network sites use among Singaporean adolescents",
+      "keywords": [
+        "Social media",
+        "Adolescents",
+        "Social cognitive theory",
+        "Self-regulation",
+        "Habit strength",
+        "Addiction"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 67,
+      "number": 1,
+      "pages": {
+        "s_page": 240,
+        "e_page": 251
+      }
+    }
+  },
+  {
+    "paper_id": 59,
+    "authors": [
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrew",
+        "lname": "Yee",
+        "cauthor": false
+      },
+      {
+        "fname": "Edmund",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Understanding Factors Associated with Singaporean Adolescents’ Intention to Adopt Privacy Protection Behavior Using an Extended Theory of Planned Behavior",
+      "keywords": [
+        "social network sites",
+        "adolescents",
+        "theory of planned behavior",
+        "privacy protection behavior",
+        "privacy concern"
+      ]
+    },
+    "source": {
+      "journal": "Cyberpsychology, Behavior, and Social Networking",
+      "volume": 20,
+      "number": 9,
+      "pages": {
+        "s_page": 572,
+        "e_page": 579
+      }
+    }
+  },
+  {
+    "paper_id": 60,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Augustine",
+        "lname": "Pang",
+        "cauthor": true,
+        "email": "augustine.pang@ntu.edu.sg"
+      },
+      {
+        "fname": "Jun-Qi",
+        "lname": "Low",
+        "cauthor": false
+      },
+      {
+        "fname": "Marilyn",
+        "lname": "Peh",
+        "cauthor": false
+      },
+      {
+        "fname": "Sarah",
+        "lname": "Rodriguez",
+        "cauthor": false
+      },
+      {
+        "fname": "Nur Hanisah",
+        "lname": "Zelani",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Is saying ‘sorry’ enough? examining the effects of apology typologies by organizations on consumer responses",
+      "keywords": [
+        "Advertising/public relations",
+        "strategic communication",
+        "experiment",
+        "Singapore",
+        "others"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 27,
+      "number": 1,
+      "pages": {
+        "s_page": 49,
+        "e_page": 64
+      }
+    }
+  },
+  {
+    "paper_id": 61,
+    "authors": [
+      {
+        "fname": "Wonsun",
+        "lname": "Shin",
+        "cauthor": true,
+        "email": "wshin@ntu.edu.sg"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "How does \"talking about the Internet with others\" affect teenagers’ experience of online risks? The role of active mediation by parents, peers, and school teachers",
+      "keywords": [
+        "adolescents",
+        "online risks",
+        "parental mediation",
+        "peer influence",
+        "school influence",
+        "socialization theory",
+        "teenagers' Internet use"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 19,
+      "number": 7,
+      "pages": {
+        "s_page": 1109,
+        "e_page": 1126
+      }
+    }
+  },
+  {
+    "paper_id": 62,
+    "authors": [
+      {
+        "fname": "Andrea",
+        "lname": "Stanaland",
+        "cauthor": true,
+        "email": "ajstanala@radford.edu"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Jochen",
+        "lname": "Wirtz",
+        "cauthor": false
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "The privacy dyad: Antecedents of promotion- and prevention-focused online privacy behaviors and the mediating role of trust and privacy concern",
+      "keywords": [
+        "privacy concern",
+        "reputation",
+        "business communication",
+        "consumer trust"
+      ]
+    },
+    "source": {
+      "journal": "Internet Research",
+      "volume": 26,
+      "number": 4,
+      "pages": {
+        "s_page": 919,
+        "e_page": 941
+      }
+    }
+  },
+  {
+    "paper_id": 63,
+    "authors": [
+      {
+        "fname": "Chen",
+        "lname": "Liang",
+        "cauthor": true,
+        "email": "ch0087ng@ntu.edu.sg"
+      },
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "A meta-analysis of factors predicting cyberbullying perpetration and victimization: From the social cognitive and media effects approach",
+      "keywords": [
+        "cyberbullying perpetration",
+        "cyberbullying victimization",
+        "media effects",
+        "meta-analysis",
+        "social cognition"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 19,
+      "number": 8,
+      "pages": {
+        "s_page": 1194,
+        "e_page": 1213
+      }
+    }
+  },
+  {
+    "paper_id": 64,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      },
+      {
+        "fname": "Santosh",
+        "lname": "Vijaykumar",
+        "cauthor": false
+      },
+      {
+        "fname": "Chao",
+        "lname": "Jiang",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "\"Natural\" and \"fresh\": An analysis of food label claims in internationally packaged foods in Singapore",
+      "keywords": [
+        "food labels",
+        "nutrition claims",
+        "packaged foods",
+        "health",
+        "singapore"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Food Products Marketing",
+      "volume": 21,
+      "number": 6,
+      "pages": {
+        "s_page": 588,
+        "e_page": 607
+      }
+    }
+  },
+  {
+    "paper_id": 65,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Comparative practices of food label claims from U.S., E.U. and selected Southeast Asian countries",
+      "keywords": [
+        "regulations",
+        "health literacy",
+        "claims",
+        "food packaging",
+        "health perceptions",
+        "nutrition labels"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Consumer Marketing",
+      "volume": 32,
+      "number": 7,
+      "pages": {
+        "s_page": 530,
+        "e_page": 541
+      }
+    }
+  },
+  {
+    "paper_id": 66,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      },
+      {
+        "fname": "Charles",
+        "lname": "Salmon",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "A retrospective overview of health communication studies in Asia from 2000 to 2013",
+      "keywords": [
+        "health communication",
+        "asia",
+        "critical review",
+        "research trends",
+        "public health"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 25,
+      "number": 1,
+      "pages": {
+        "s_page": 1,
+        "e_page": 13
+      }
+    }
+  },
+  {
+    "paper_id": 67,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Examining Asian Women’s Motivations to Undergo Breast Cancer Screening",
+      "keywords": [
+        "breast",
+        "cancer",
+        "screening",
+        "self-efficacy",
+        "coping appraisal",
+        "health education",
+        "communication"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Women’s Health Care",
+      "volume": 3,
+      "number": 3,
+      "pages": {
+        "s_page": 100,
+        "e_page": 158
+      }
+    }
+  },
+  {
+    "paper_id": 68,
+    "authors": [
+      {
+        "fname": "Janet",
+        "lname": "Yang",
+        "cauthor": true,
+        "email": "zyang5@buffalo.edu"
+      },
+      {
+        "fname": "Shirley",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Promoting preventive behaviors against influenza: Comparison between developing and developed countries",
+      "keywords": [
+        "self-efficacy",
+        "cues to action",
+        "trust",
+        "influenza",
+        "protective behaviour"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 24,
+      "number": 6,
+      "pages": {
+        "s_page": 567,
+        "e_page": 588
+      }
+    }
+  },
+  {
+    "paper_id": 69,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Can exergames impart health messages? Game play, framing, and drivers of physical activity among children",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Health Communication",
+      "volume": 19,
+      "number": 2,
+      "pages": {
+        "s_page": 136,
+        "e_page": 151
+      }
+    }
+  },
+  {
+    "paper_id": 70,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      },
+      {
+        "fname": "Shelly",
+        "lname": "Malik",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "The role of media exposure, peers and family on body dissatisfaction amongst boys and girls",
+      "keywords": [
+        "body dissatisfaction",
+        "body shape",
+        "child health",
+        "media exposure"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Children and Media",
+      "volume": 6,
+      "number": 1,
+      "pages": {
+        "s_page": 69,
+        "e_page": 82
+      }
+    }
+  },
+  {
+    "paper_id": 71,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Maureen",
+        "lname": "Morrin",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "Scenting movie theatre commercials: The impact of scent and pictures on brand evaluations and ad recall",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Consumer Behaviour",
+      "volume": 11,
+      "number": 3,
+      "pages": {
+        "s_page": 264,
+        "e_page": 272
+      }
+    }
+  },
+  {
+    "paper_id": 72,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Rebecca",
+        "lname": "Ang",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "Stop bugging me: an examination of adolescents' protection behavior against online harassment",
+      "keywords": [
+        "Online harassment",
+        "Adolescents",
+        "Victimization",
+        "Protection Motivation Theory"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Adolescence",
+      "volume": 35,
+      "number": 1,
+      "pages": {
+        "s_page": 31,
+        "e_page": 41
+      }
+    }
+  },
+  {
+    "paper_id": 73,
+    "authors": [
+      {
+        "fname": "Andrea",
+        "lname": "Stanaland",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Patrick",
+        "lname": "Murphy",
+        "cauthor": false
+      }
+    ],
+    "year": 2011,
+    "paper": {
+      "title": "Consumer Perceptions of the Antecedents and Consequences of Corporate Social Responsibility",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Business Ethics",
+      "volume": 102,
+      "number": 1,
+      "pages": {
+        "s_page": 47,
+        "e_page": 55
+      }
+    }
+  },
+  {
+    "paper_id": 74,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrea",
+        "lname": "Stanaland",
+        "cauthor": false
+      }
+    ],
+    "year": 2011,
+    "paper": {
+      "title": "Online privacy trustmarks: Enhancing the perceived ethics of digital advertising",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Advertising Research",
+      "volume": 51,
+      "number": 3,
+      "pages": {
+        "s_page": 511,
+        "e_page": 523
+      }
+    }
+  },
+  {
+    "paper_id": 75,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Maureen",
+        "lname": "Morrin",
+        "cauthor": false
+      },
+      {
+        "fname": "Aradhna",
+        "lname": "Krishna",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "Exploring the superadditive effects of scent and pictures on verbal recall: An extension of dual coding theory.",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Consumer Psychology",
+      "volume": 20,
+      "number": 3,
+      "pages": {
+        "s_page": 317,
+        "e_page": 326
+      }
+    }
+  },
+  {
+    "paper_id": 76,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrea",
+        "lname": "Stanaland",
+        "cauthor": false
+      },
+      {
+        "fname": "Desmond",
+        "lname": "Chan",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "Using Protection Motivation Theory to predict condom usage and assess HIV health communication efficacy in Singapore.",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Health Communication",
+      "volume": 25,
+      "number": 1,
+      "pages": {
+        "s_page": 69,
+        "e_page": 79
+      }
+    }
+  },
+  {
+    "paper_id": 77,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Arandha",
+        "lname": "Krishna",
+        "cauthor": false
+      },
+      {
+        "fname": "Maureen",
+        "lname": "Morrin",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "Product scent and memory.",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Consumer Research",
+      "volume": 37,
+      "number": 1,
+      "pages": {
+        "s_page": 57,
+        "e_page": 68
+      }
+    }
+  },
+  {
+    "paper_id": 78,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrea",
+        "lname": "Stanaland",
+        "cauthor": false
+      },
+      {
+        "fname": "Anthony",
+        "lname": "Miyazaki",
+        "cauthor": false
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "Self-regulatory safeguards and the online privacy of preteen children: Implications for the advertising industry.",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Advertising",
+      "volume": 38,
+      "number": 4,
+      "pages": {
+        "s_page": 79,
+        "e_page": 91
+      }
+    }
+  },
+  {
+    "paper_id": 79,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Anthony",
+        "lname": "Miyazaki",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrea",
+        "lname": "Stanaland",
+        "cauthor": false
+      }
+    ],
+    "year": 2008,
+    "paper": {
+      "title": "Protecting children’s privacy online: how parental mediation strategies affect website safeguard effectiveness.",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Retailing",
+      "volume": 84,
+      "number": 2,
+      "pages": {
+        "s_page": 205,
+        "e_page": 217
+      }
+    }
+  },
+  {
+    "paper_id": 80,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Jochen",
+        "lname": "Wirtz",
+        "cauthor": false
+      },
+      {
+        "fname": "Jerome",
+        "lname": "Williams",
+        "cauthor": false
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "Consumer online privacy concerns and responses: A power-responsibility equilibrium perspective.",
+      "keywords": [
+        "Online privacy",
+        "Power responsibility",
+        "Business policy",
+        "Regulation",
+        "Congruency-sensitivity interaction"
+      ]
+    },
+    "source": {
+      "journal": "Journal of the Academy of Marketing Science",
+      "volume": 35,
+      "number": 4,
+      "pages": {
+        "s_page": 572,
+        "e_page": 585
+      }
+    }
+  },
+  {
+    "paper_id": 81,
+    "authors": [
+      {
+        "fname": "Jerome",
+        "lname": "Williams",
+        "cauthor": true,
+        "email": "Jerome.williams@mail.utexas.edu"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2003,
+    "paper": {
+      "title": "A Model Integrating the Multidimensional Developmental Theory of Privacy and Theory of Planned Behavior to Examine Fabrication of Information Online",
+      "keywords": [
+        "personal information privacy",
+        "online behavior",
+        "fabrication",
+        "Internet ethics"
+      ]
+    },
+    "source": {
+      "journal": "Marketing Letters",
+      "volume": 14,
+      "number": 4,
+      "pages": {
+        "s_page": 257,
+        "e_page": 272
+      }
+    }
+  },
+  {
+    "paper_id": 82,
+    "authors": [
+      {
+        "fname": "Ashok ",
+        "lname": "Lalwani",
+        "cauthor": true,
+        "email": "lalwani@uiuc.edu"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "fbamol@nus.edu.sg"
+      },
+      {
+        "fname": "Kuah Leng",
+        "lname": "Li",
+        "cauthor": false
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "Consumer Responses to English Accent Variations in Advertising",
+      "keywords": [
+        "accents",
+        "spokesperson characteristics",
+        "source credibility",
+        "attitude to the ad",
+        "purchase intentions"
+      ]
+    },
+    "source": {
+      "journal": "JOURNAL OF GLOBAL MARKETING",
+      "volume": 18,
+      "number": 3,
+      "pages": {
+        "s_page": 143,
+        "e_page": 165
+      }
+    }
+  },
+  {
+    "paper_id": 83,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "fbamol@nus.edu.sg"
+      },
+      {
+        "fname": "Jochen",
+        "lname": "Wirtz",
+        "cauthor": false
+      }
+    ],
+    "year": 2001,
+    "paper": {
+      "title": "GULFSTREAM AEROSPACE CORPORATION — PENETRATING ASIA'S CORPORATE JET MARKET",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Asian Case Research Journal",
+      "volume": 5,
+      "number": 1,
+      "pages": {
+        "s_page": 97,
+        "e_page": 120
+      }
+    }
+  },
+  {
+    "paper_id": 84,
+    "authors": [
+      {
+        "fname": "Jochen",
+        "lname": "Wirtz",
+        "cauthor": false
+      },
+      {
+        "fname": "Anna",
+        "lname": "Mattila",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "How Effective Are Loyalty Reward Programs in Driving Share of Wallet?",
+      "keywords": [
+        "customer loyalty",
+        "reward program",
+        "share of wallet",
+        "switching costs"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Service Research",
+      "volume": 9,
+      "number": 4,
+      "pages": {
+        "s_page": 327,
+        "e_page": 334
+      }
+    }
+  },
+  {
+    "paper_id": 85,
+    "authors": [
+      {
+        "fname": "Jerome",
+        "lname": "Williams",
+        "cauthor": true,
+        "email": "jerome.williams@mail.utexas.edu"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      }
+    ],
+    "year": 2006,
+    "paper": {
+      "title": "Promises, Promises: How Consumers Respond to Warranties in Internet Retailing",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Consumer Affairs",
+      "volume": 40,
+      "number": 2,
+      "pages": {
+        "s_page": 236,
+        "e_page": 260
+      }
+    }
+  },
+  {
+    "paper_id": 86,
+    "authors": [
+      {
+        "fname": "Seang-Mei",
+        "lname": "Saw",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "Protecting Children from Myopia: A PMT Perspective for Improving Health Marketing Communications",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Health Communication",
+      "volume": 12,
+      "number": 3,
+      "pages": {
+        "s_page": 251,
+        "e_page": 268
+      }
+    }
+  },
+  {
+    "paper_id": 87,
+    "authors": [
+      {
+        "fname": "Tony",
+        "lname": "Wilson",
+        "cauthor": true,
+        "email": "tonyjwilson@yahoo.com"
+      },
+      {
+        "fname": "Huey",
+        "lname": "Pyng Tan",
+        "cauthor": true,
+        "email": "tanhp@mail.utar.edu.my"
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "tmaylwin@ntu.edu.sg"
+      }
+    ],
+    "year": 2006,
+    "paper": {
+      "title": "Television’s Glocal Advertising in Veridical Product Narrative: A SE Asian Reception Study of Consumer Alignment/Alienation",
+      "keywords": [
+        "Consumer Reception Studies",
+        "Glocal",
+        "Hermeneutics",
+        "Identification",
+        "Malaysia",
+        "Phenomenology Of Play",
+        "Television Advertising"
+      ]
+    },
+    "source": {
+      "journal": "Consumption Markets & Culture",
+      "volume": 9,
+      "number": 1,
+      "pages": {
+        "s_page": 45,
+        "e_page": 62
+      }
+    }
+  },
+  {
+    "paper_id": 88,
+    "authors": [
+      {
+        "fname": "Chow-Hou",
+        "lname": "Wee",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true,
+        "email": "fbamol@nus.edu.sg"
+      }
+    ],
+    "year": 1999,
+    "paper": {
+      "title": "The Effect of an Audio Stimulus: Accents in English Language on Cross-Cultural Consumer Response to Advertising",
+      "keywords": [
+        "Accents",
+        "language",
+        "advertising",
+        "cross-culture",
+        "consumer response"
+      ]
+    },
+    "source": {
+      "journal": "Journal of International Consumer Marketing",
+      "volume": 11,
+      "number": 2,
+      "pages": {
+        "s_page": 5,
+        "e_page": 37
+      }
+    }
+  },
+  {
+    "paper_id": 89,
+    "authors": [
+      {
+        "fname": "Chow-Hou",
+        "lname": "Wee",
+        "cauthor": false
+      },
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2000,
+    "paper": {
+      "title": "The Influence of Spokesperson's Race in Relation to Accents Used in Television Commercials",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Current Issues & Research in Advertising",
+      "volume": 22,
+      "number": 1,
+      "pages": {
+        "s_page": 67,
+        "e_page": 83
+      }
+    }
+  },
+  {
+    "paper_id": 90,
+    "authors": [
+      {
+        "fname": "May",
+        "lname": "Lwin",
+        "cauthor": true
+      },
+      {
+        "fname": "Seck Luan",
+        "lname": "Lim",
+        "cauthor": false
+      },
+      {
+        "fname": "Chow Hou",
+        "lname": "Wee",
+        "cauthor": false
+      }
+    ],
+    "year": 1995,
+    "paper": {
+      "title": "Word-of-mouth communication in Singapore: With focus on effects of Message-sidedness, Source and User-type",
+      "keywords": [
+        "Communication",
+        "message",
+        "source",
+        "word-of-mouth",
+        "Singapore",
+        "experiments",
+        "restaurant",
+        "credibility",
+        "intention",
+        "user-type",
+        "tour"
+      ]
+    },
+    "source": {
+      "journal": "Asia Pacific Journal of Marketing and Logistics",
+      "volume": 7,
+      "number": 1,
+      "pages": {
+        "s_page": 5,
+        "e_page": 36
+      }
+    }
+  },
+  {
+    "paper_id": 91,
+    "authors": [
+      {
+        "fname": "Shalini",
+        "lname": "Chandra",
+        "cauthor": false,
+        "email": "shal0005@ntu.edu.sg"
+      },
+      {
+        "fname": "Shirish C",
+        "lname": "Srivastava",
+        "cauthor": false,
+        "email": "srivastava@hec.fr"
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false,
+        "email": "tyltheng@ntu.edu.sg"
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "Cognitive Absorption and Trust for Workplace Collaboration in Virtual Worlds: An Information Processing Decision Making Perspective",
+      "keywords": [
+        "cognitive absorption",
+        "virtual world",
+        "trust",
+        "adaptive user intention",
+        "singapore"
+      ]
+    },
+    "source": {
+      "journal": "Journal of the Association for Information System",
+      "volume": 13,
+      "number": "10",
+      "pages": {
+        "s_page": 797,
+        "e_page": 835
+      }
+    }
+  },
+  {
+    "paper_id": 92,
+    "authors": [
+      {
+        "fname": "Jinhui",
+        "lname": "Li",
+        "cauthor": true,
+        "email": "jli020@e.ntu.edu.sg"
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Schubert",
+        "lname": "Foo",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Game-Based Digital Interventions for Depression Therapy: A Systematic Review and Meta-Analysis",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Cyberpsychology, Behavior, and Social Networking",
+      "volume": 17,
+      "number": 8,
+      "pages": {
+        "s_page": 519,
+        "e_page": 527
+      }
+    }
+  },
+  {
+    "paper_id": 93,
+    "authors": [
+      {
+        "fname": "Schubert",
+        "lname": "Foo",
+        "cauthor": true,
+        "email": "sfoo@ntu.edu.sg"
+      },
+      {
+        "fname": "Shaheen",
+        "lname": "Majid",
+        "cauthor": false
+      },
+      {
+        "fname": "Intan Azura",
+        "lname": "Mohktar",
+        "cauthor": false
+      },
+      {
+        "fname": "Xue",
+        "lname": "Zhang",
+        "cauthor": false
+      },
+      {
+        "fname": "Yun Ke",
+        "lname": "Chang",
+        "cauthor": false
+      },
+      {
+        "fname": "Brendan",
+        "lname": "Luyt",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Information literacy skills of secondary school students in Singapore",
+      "keywords": [
+        "information literacy",
+        "assessment",
+        "singapore",
+        "students",
+        "secondary schools"
+      ]
+    },
+    "source": {
+      "journal": "Aslib Journal of Information",
+      "volume": 66,
+      "number": 1,
+      "pages": {
+        "s_page": 54,
+        "e_page": 76
+      }
+    }
+  },
+  {
+    "paper_id": 94,
+    "authors": [
+      {
+        "fname": "Siyuan",
+        "lname": "Liu",
+        "cauthor": true,
+        "email": "lius0036@e.ntu.edu.sg"
+      },
+      {
+        "fname": "Jie",
+        "lname": "Zhang",
+        "cauthor": false
+      },
+      {
+        "fname": "Chunyan",
+        "lname": "Miao",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Alex Chichung",
+        "lname": "Kot",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "An Integrated Clustering-Based Approach to Filtering Unfair Multi-Nominal Testimonies",
+      "keywords": [
+        "clustering",
+        "multiagent-based electronic commerce",
+        "reputation system",
+        "robustness",
+        "unfair",
+        "testimony"
+      ]
+    },
+    "source": {
+      "journal": "Computational Intelligence",
+      "volume": 30,
+      "number": 2,
+      "pages": {
+        "s_page": 316,
+        "e_page": 341
+      }
+    }
+  },
+  {
+    "paper_id": 95,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": true,
+        "email": "tyltheng@ntu.edu.sg"
+      },
+      {
+        "fname": "Wanzhen",
+        "lname": "Liaw",
+        "cauthor": false
+      },
+      {
+        "fname": "Zhiqiang",
+        "lname": "Li",
+        "cauthor": false
+      },
+      {
+        "fname": "Robert",
+        "lname": "Chai",
+        "cauthor": false
+      },
+      {
+        "fname": "Pallavi",
+        "lname": "Rao",
+        "cauthor": false
+      }
+    ],
+    "year": 2011,
+    "paper": {
+      "title": "Investigation of the antecedents and consequences of gamer satisfaction: An individual perspective",
+      "keywords": [
+        "game design",
+        "game heuristics",
+        "technology acceptance model",
+        "expectancy disconfirmation theory",
+        "gameplay",
+        "playability",
+        "acceptance",
+        "adoption",
+        "usefulness",
+        "usability"
+      ]
+    },
+    "source": {
+      "journal": "ACM Computers in Entertainment",
+      "volume": 9,
+      "number": 3,
+      "pages": {
+        "s_page": 1,
+        "e_page": 26
+      }
+    }
+  },
+  {
+    "paper_id": 96,
+    "authors": [
+      {
+        "fname": "Puay Hoe",
+        "lname": "Chua",
+        "cauthor": false
+      },
+      {
+        "fname": "Younbo",
+        "lname": "Jung",
+        "cauthor": false
+      },
+      {
+        "fname": "May O",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": true,
+        "email": "tyltheng@ntu.edu.sg"
+      }
+    ],
+    "year": 2013,
+    "paper": {
+      "title": "Let's play together: Effects of video-game play on intergenerational perceptions among youth and elderly participants",
+      "keywords": [
+        "older adults",
+        "intergenerational perceptions",
+        "video games",
+        "leisure activity",
+        "intergroup contact theory"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 29,
+      "number": 6,
+      "pages": {
+        "s_page": 2303,
+        "e_page": 2311
+      }
+    }
+  },
+  {
+    "paper_id": 97,
+    "authors": [
+      {
+        "fname": "Luke Kien Weng",
+        "lname": "Tan",
+        "cauthor": false,
+        "email": "w080078@ntu.edu.sg"
+      },
+      {
+        "fname": "Jin Cheon",
+        "lname": "Na",
+        "cauthor": false,
+        "email": "tjcna@ntu.edu.sg"
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false,
+        "email": "tyltheng@ntu.edu.sg"
+      },
+      {
+        "fname": "Kuiyu",
+        "lname": "Chang",
+        "cauthor": false,
+        "email": "askychang@ntu.edu.sg"
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "Phrase-Level Sentiment Polarity Classification Using Rule-Based Typed Dependencies and Additional Complex Phrases Consideration",
+      "keywords": [
+        "class sequential rule",
+        "complex phrase",
+        "sentiment analysis",
+        "typed dependency"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Computer Science and Technology",
+      "volume": 27,
+      "number": 3,
+      "pages": {
+        "s_page": 650,
+        "e_page": 666
+      }
+    }
+  },
+  {
+    "paper_id": 98,
+    "authors": [
+      {
+        "fname": "Lorraine",
+        "lname": "Goeuriot",
+        "cauthor": false,
+        "email": "lorraineg@ntu.edu.sg"
+      },
+      {
+        "fname": "Jin Cheon",
+        "lname": "Na",
+        "cauthor": false,
+        "email": "tjcna@ntu.edu.sg"
+      },
+      {
+        "fname": "Wai Yan Min",
+        "lname": "Kyaing",
+        "cauthor": false,
+        "email": "kymwai@ntu.edu.sg"
+      },
+      {
+        "fname": "Christopher S.G",
+        "lname": "Khoo",
+        "cauthor": false,
+        "email": "assgkhoo@ntu.edu.sg"
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false,
+        "email": "tyltheng@ntu.edu.sg"
+      },
+      {
+        "fname": "Yun Ke",
+        "lname": "Chang",
+        "cauthor": false,
+        "email": "ykchang@ntu.edu.sg"
+      },
+      {
+        "fname": "Schubert",
+        "lname": "Foo",
+        "cauthor": false,
+        "email": "assfoo@ntu.edu.sg"
+      }
+    ],
+    "year": 2011,
+    "paper": {
+      "title": "Textual and Informational Characteristics of Drug-Related Content on Three Kinds of Websites: Drug Review Website, Discussion Board and Hospital Information Portal",
+      "keywords": [
+        "User-generated content",
+        "discussion forums",
+        "medical and health information",
+        "content analysis",
+        "social media",
+        "drug reviews",
+        "opinion mining"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Organizational and Collective Intelligence",
+      "volume": 2,
+      "number": 3,
+      "pages": {
+        "s_page": 27,
+        "e_page": 49
+      }
+    }
+  },
+  {
+    "paper_id": 99,
+    "authors": [
+      {
+        "fname": "Intan Azura",
+        "lname": "Mohktar",
+        "cauthor": true,
+        "email": "intanazura.mokhtar@nie.edu.sg"
+      },
+      {
+        "fname": "Shaheen",
+        "lname": "Majid",
+        "cauthor": false
+      },
+      {
+        "fname": "Schubert",
+        "lname": "Foo",
+        "cauthor": false
+      },
+      {
+        "fname": "Xue",
+        "lname": "Zhang",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Yun Ke",
+        "lname": "Chang",
+        "cauthor": false
+      },
+      {
+        "fname": "Brendan",
+        "lname": "Luyt",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "Evidence-based practice and related information literacy skills of nurses in Singapore: An exploratory case study",
+      "keywords": [
+        "evidence-based practice",
+        "healthcare professional training",
+        "information and knowledge management",
+        "e-learning",
+        "health information on the Web"
+      ]
+    },
+    "source": {
+      "journal": "Health Informatics Journal",
+      "volume": 18,
+      "number": 1,
+      "pages": {
+        "s_page": 12,
+        "e_page": 25
+      }
+    }
+  },
+  {
+    "paper_id": 100,
+    "authors": [
+      {
+        "fname": "Jinhui",
+        "lname": "Li",
+        "cauthor": true,
+        "email": "jli020@e.ntu.edu.sg"
+      },
+      {
+        "fname": "Zumei",
+        "lname": "Wu",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Examining the Influencing Factors of Exercise Intention Among Older Adults: A Controlled Study Between Exergame and Traditional Exercise",
+      "keywords": [
+        "exergame",
+        "traditional exercise",
+        "player interaction",
+        "exercise intention",
+        "older adults"
+      ]
+    },
+    "source": {
+      "journal": "Cyberpsychology, Behavior, and Social Networking",
+      "volume": 18,
+      "number": 9,
+      "pages": {
+        "s_page": 521,
+        "e_page": 527
+      }
+    }
+  },
+  {
+    "paper_id": 101,
+    "authors": [
+      {
+        "fname": "Patrick J.S.",
+        "lname": "Tan",
+        "cauthor": false
+      },
+      {
+        "fname": "Ravi S.",
+        "lname": "Sharma",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "Effective e-commerce strategies for small online retailers",
+      "keywords": [
+        "e-commerce strategies",
+        "critical success factors",
+        "e-commerce management",
+        "SMEs",
+        "small and medium-sized enterprises",
+        "online retailing",
+        "strategic e-commerce",
+        "strategic management",
+        "e-tailing",
+        "electronic commerce",
+        "electronic retailing"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Electronic Business",
+      "volume": 7,
+      "number": 5,
+      "pages": {
+        "s_page": 445,
+        "e_page": 472
+      }
+    }
+  },
+  {
+    "paper_id": 102,
+    "authors": [
+      {
+        "fname": "Intan Azura",
+        "lname": "Mokhtar",
+        "cauthor": true,
+        "email": "Intanazura.mokhtar@nie.edu.sg"
+      },
+      {
+        "fname": "Schubert",
+        "lname": "Foo",
+        "cauthor": false
+      },
+      {
+        "fname": "Shaheen",
+        "lname": "Majid",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Brendan",
+        "lname": "Luyt",
+        "cauthor": false
+      },
+      {
+        "fname": "Yun-Ke",
+        "lname": "Chang",
+        "cauthor": false
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "Proposing a 6+3 model for developing information literacy standards for schools : a case for Singapore",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Education for Information",
+      "volume": 27,
+      "number": 2,
+      "pages": {
+        "s_page": 81,
+        "e_page": 101
+      }
+    }
+  },
+  {
+    "paper_id": 103,
+    "authors": [
+      {
+        "fname": "Esther Meng‐Yoke",
+        "lname": "Tan",
+        "cauthor": false
+      },
+      {
+        "fname": "Schubert",
+        "lname": "Foo",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe‐Lian",
+        "lname": "Goh",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "TILES: classifying contextual information for mobile tourism applications",
+      "keywords": [
+        "Mobile communication systems",
+        "Information retrieval",
+        "Tourism"
+      ]
+    },
+    "source": {
+      "journal": "Aslib Proceedings",
+      "volume": 61,
+      "number": 6,
+      "pages": {
+        "s_page": 565,
+        "e_page": 568
+      }
+    }
+  },
+  {
+    "paper_id": 104,
+    "authors": [
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Elaine Lew Yee",
+        "lname": "Wen",
+        "cauthor": false
+      },
+      {
+        "fname": "Jimmy Chong Jeah",
+        "lname": "Leong",
+        "cauthor": false
+      },
+      {
+        "fname": "Stanley See Boon",
+        "lname": "Yeow",
+        "cauthor": false
+      },
+      {
+        "fname": "Ding Hong",
+        "lname": "Yan",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "Students' Perceptions and Acceptance: Lessons from Two Studies on Social Tools on Collaborative and Collective Learning",
+      "keywords": [
+        "Artificial Intelligence",
+        "Collective Intelligence",
+        "Computer Science & IT",
+        "Information Science Reference"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Organizational and Collective Intelligence (IJOCI)",
+      "volume": 1,
+      "number": 1,
+      "pages": {
+        "s_page": 76,
+        "e_page": 90
+      }
+    }
+  },
+  {
+    "paper_id": 105,
+    "authors": [
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Peter J.",
+        "lname": "Patsula",
+        "cauthor": true,
+        "email": "ppatsula@gmail.com"
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "Structure Processing of Web-Based Menus",
+      "keywords": []
+    },
+    "source": {
+      "journal": "International Journal of Human–Computer Interaction",
+      "volume": 26,
+      "number": 7,
+      "pages": {
+        "s_page": 675,
+        "e_page": 702
+      }
+    }
+  },
+  {
+    "paper_id": 106,
+    "authors": [
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Yanling",
+        "lname": "Luo",
+        "cauthor": false
+      },
+      {
+        "fname": "Gladys Theng",
+        "lname": "Sau-Mei",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "QiVMDL - Towards a Socially Constructed Virtual Museum and Digital Library for the Preservation of Cultural Heritage: A Case of the Chinese “Qipao”",
+      "keywords": [
+        "Digital Libraries",
+        "Information Science Reference",
+        "Library & Information Science",
+        "Library Science"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Digital Library Systems (IJDLS)",
+      "volume": 1,
+      "number": 4,
+      "pages": {
+        "s_page": 43,
+        "e_page": 60
+      }
+    }
+  },
+  {
+    "paper_id": 107,
+    "authors": [
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": true,
+        "email": "tyltheng@ntu.edu.sg"
+      },
+      {
+        "fname": "Wee Teck",
+        "lname": "Tan",
+        "cauthor": false
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Schubert",
+        "lname": "Foo",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "An Exploratory Study of Determinants and Corrective Measures for Software Piracy and Counterfeiting in the Digital Age",
+      "keywords": [
+        "Software piracy",
+        "Counterfeiting",
+        "Measures",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "journal": "Computer and Information Science",
+      "volume": 3,
+      "number": 3,
+      "pages": {
+        "s_page": 30,
+        "e_page": 49
+      }
+    }
+  },
+  {
+    "paper_id": 108,
+    "authors": [
+      {
+        "fname": "Shalini",
+        "lname": "Chandra",
+        "cauthor": true,
+        "email": "SHAL0005@ntu.edu.sg"
+      },
+      {
+        "fname": "Shirish C.",
+        "lname": "Srivastava",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "Evaluating the Role of Trust in Consumer Adoption of Mobile Payment Systems: An Empirical Analysis",
+      "keywords": [
+        "trust",
+        "m-payment",
+        "technology adoption",
+        "risk",
+        "structural assurance",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "journal": "Communications of the Association for Information Systems",
+      "volume": 27,
+      "number": 29,
+      "pages": {
+        "s_page": 561,
+        "e_page": 588
+      }
+    }
+  },
+  {
+    "paper_id": 109,
+    "authors": [
+      {
+        "fname": "Luke Kien-Weng",
+        "lname": "Tan",
+        "cauthor": false
+      },
+      {
+        "fname": "Jin-Cheon",
+        "lname": "Na",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2010,
+    "paper": {
+      "title": "Influence detection between blog posts through blog features,content analysis, and community identity",
+      "keywords": [
+        "Blogosphere",
+        "Influence detection",
+        "Influence propagation",
+        "Sentiment analysis",
+        "Agreement analysis",
+        "Blogs",
+        "Communities"
+      ]
+    },
+    "source": {
+      "journal": "Online Information Review",
+      "volume": 35,
+      "number": 3,
+      "pages": {
+        "s_page": 425,
+        "e_page": 442
+      }
+    }
+  },
+  {
+    "paper_id": 110,
+    "authors": [
+      {
+        "fname": "Pallavi",
+        "lname": "Rao",
+        "cauthor": false
+      },
+      {
+        "fname": "Shalini",
+        "lname": "Chandra",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2011,
+    "paper": {
+      "title": "Adoption and Usage of Healthcare Portals: Examining the Factors Influencing Consumers’ Decisions",
+      "keywords": [
+        "Artificial Intelligence",
+        "Collective Intelligence",
+        "Computer Science & IT",
+        "Information Science Reference"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Organizational and Collective Intelligence (IJOCI)",
+      "volume": 2,
+      "number": 3,
+      "pages": {
+        "s_page": 50,
+        "e_page": 73
+      }
+    }
+  },
+  {
+    "paper_id": 111,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Harold",
+        "lname": "Thimbleby",
+        "cauthor": false
+      }
+    ],
+    "year": 1998,
+    "paper": {
+      "title": "Addressing Design and Usability Issues in Hypertext and on the World Wide Web by Re-Examining the \"Lost in Hyperspace\" Problem",
+      "keywords": [
+        "World Wide Web",
+        "authoring tools",
+        "cognitive psychology",
+        "design",
+        "human-computer interaction",
+        "hypertext",
+        "lost in hyperspace",
+        "software",
+        "engineering",
+        "usability"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Universal Computer Science",
+      "volume": 4,
+      "number": 11,
+      "pages": {
+        "s_page": 839,
+        "e_page": 855
+      }
+    }
+  },
+  {
+    "paper_id": 112,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Zehua",
+        "lname": "Liu",
+        "cauthor": false
+      },
+      {
+        "fname": "Hai",
+        "lname": "Yu",
+        "cauthor": false
+      },
+      {
+        "fname": "Ee-Peng",
+        "lname": "Lim",
+        "cauthor": true,
+        "email": "aseplim@ntu.edu.sg"
+      },
+      {
+        "fname": "Ming",
+        "lname": "Yin",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": false
+      },
+      {
+        "fname": "Wee Keong",
+        "lname": "Ng",
+        "cauthor": false
+      }
+    ],
+    "year": 2004,
+    "paper": {
+      "title": "A Java-based digital library portal for geography education",
+      "keywords": [
+        "Digital libraries",
+        "Geography education",
+        "Metadata management"
+      ]
+    },
+    "source": {
+      "journal": "Science of Computer Programming",
+      "volume": 53,
+      "number": 1,
+      "pages": {
+        "s_page": 87,
+        "e_page": 105
+      }
+    }
+  },
+  {
+    "paper_id": 113,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Zehua",
+        "lname": "Liu",
+        "cauthor": false
+      },
+      {
+        "fname": "Ee-Peng",
+        "lname": "Lim",
+        "cauthor": true,
+        "email": "aseplim@ntu.edu.sg"
+      },
+      {
+        "fname": "Ming",
+        "lname": "Yin",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": false
+      },
+      {
+        "fname": "Wee Keong",
+        "lname": "Ng",
+        "cauthor": false
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "On organizing and accessing geospatial and georeferenced Web resources using the G-Portal system",
+      "keywords": [
+        "Digital library portal",
+        "Geospatial and georeferenced resources",
+        "Metadata management"
+      ]
+    },
+    "source": {
+      "journal": "Information Processing & Management",
+      "volume": 41,
+      "number": 5,
+      "pages": {
+        "s_page": 1277,
+        "e_page": 1297
+      }
+    }
+  },
+  {
+    "paper_id": 114,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": true,
+        "email": "tyltheng@ntu.edu.sg"
+      },
+      {
+        "fname": "Zehua",
+        "lname": "Liu",
+        "cauthor": false
+      },
+      {
+        "fname": "Ee-Peng",
+        "lname": "Lim",
+        "cauthor": false
+      },
+      {
+        "fname": "Ming",
+        "lname": "Yin",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": false
+      },
+      {
+        "fname": "Natalie Lee-San",
+        "lname": "Pang",
+        "cauthor": false
+      },
+      {
+        "fname": "Patricia Bao-Bao",
+        "lname": "Wong",
+        "cauthor": false
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "Applying scenario-based design and claims analysis to the design of a digital library of geography examination resources",
+      "keywords": [
+        "Geospatial digital libraries",
+        "Scenario-based design",
+        "Claims analysis",
+        "Usability",
+        "Usefulness"
+      ]
+    },
+    "source": {
+      "journal": "Information Processing & Management",
+      "volume": 41,
+      "number": 1,
+      "pages": {
+        "s_page": 23,
+        "e_page": 40
+      }
+    }
+  },
+  {
+    "paper_id": 115,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Rebecca Pei-Hui",
+        "lname": "Ang",
+        "cauthor": false
+      },
+      {
+        "fname": "Ee-Peng",
+        "lname": "Lim",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": true,
+        "email": "ashlgoh@ntu.edu.sg"
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "GeogDL: a web-based approach to geography examination revision",
+      "keywords": [
+        "Applications in subject areas",
+        "Interactive learning environments",
+        "Pedagogical issues",
+        "Secondary education",
+        "Teaching/learning strategies"
+      ]
+    },
+    "source": {
+      "journal": "Computers & Education",
+      "volume": 45,
+      "number": 1,
+      "pages": {
+        "s_page": 57,
+        "e_page": 73
+      }
+    }
+  },
+  {
+    "paper_id": 116,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": false
+      },
+      {
+        "fname": "Shu-Shing",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2005,
+    "paper": {
+      "title": "Creative information seeking Part I: a conceptual framework",
+      "keywords": [
+        "Information seeking",
+        "Creativity",
+        "Information retrieval systems"
+      ]
+    },
+    "source": {
+      "journal": "Aslib Proceedings",
+      "volume": 57,
+      "number": 5,
+      "pages": {
+        "s_page": 460,
+        "e_page": 475
+      }
+    }
+  },
+  {
+    "paper_id": 117,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": false
+      },
+      {
+        "fname": "Ee-Peng",
+        "lname": "Lim",
+        "cauthor": false
+      },
+      {
+        "fname": "Yuanyuan",
+        "lname": "Li",
+        "cauthor": false
+      },
+      {
+        "fname": "Chew-Hung",
+        "lname": "Chang",
+        "cauthor": false
+      },
+      {
+        "fname": "Jun",
+        "lname": "Zhang",
+        "cauthor": false
+      },
+      {
+        "fname": "Zhe",
+        "lname": "Wang",
+        "cauthor": false
+      },
+      {
+        "fname": "Kalyani",
+        "lname": "Chatterjea",
+        "cauthor": false
+      }
+    ],
+    "year": 2006,
+    "paper": {
+      "title": "G-Portal – A Cross Disciplinary Digital Library Research Program from Singapore",
+      "keywords": []
+    },
+    "source": {
+      "journal": "TCDL Bulletin",
+      "volume": 3,
+      "number": 1,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 118,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Dion Hoe-Lian",
+        "lname": "Goh",
+        "cauthor": false
+      },
+      {
+        "fname": "Shu-Shing",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "Creative information seeking: Part II: empirical verification",
+      "keywords": [
+        "Information retrieval",
+        "Creative thinking"
+      ]
+    },
+    "source": {
+      "journal": "Aslib Proceedings",
+      "volume": 59,
+      "number": 3,
+      "pages": {
+        "s_page": 205,
+        "e_page": 221
+      }
+    }
+  },
+  {
+    "paper_id": 119,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Wei",
+        "lname": "Liu",
+        "cauthor": false
+      },
+      {
+        "fname": "Adrian David",
+        "lname": "Cheok",
+        "cauthor": false
+      },
+      {
+        "fname": "Charissa Mei-Ling",
+        "lname": "Kim",
+        "cauthor": false
+      }
+    ],
+    "year": 2008,
+    "paper": {
+      "title": "New teaching and learning experience with mixed reality technologies",
+      "keywords": [
+        "teaching",
+        "learning experience",
+        "MR",
+        "mixed reality classroom",
+        "technology acceptance model",
+        "TAM",
+        "usability",
+        "VR",
+        "virtual reality",
+        "immersive interaction",
+        "tangible interaction",
+        "primary schools",
+        "Singapore",
+        "primary education",
+        "solar system",
+        "plant systems",
+        "evolution",
+        "perceived usefulness",
+        "perceived ease of use",
+        "social influence"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Arts and Technology",
+      "volume": 1,
+      "number": 2,
+      "pages": {
+        "s_page": 173,
+        "e_page": 197
+      }
+    }
+  },
+  {
+    "paper_id": 120,
+    "authors": [
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": false
+      },
+      {
+        "fname": "Wei",
+        "lname": "Liu",
+        "cauthor": false
+      },
+      {
+        "fname": "Adrian David",
+        "lname": "Cheok",
+        "cauthor": false
+      },
+      {
+        "fname": "Charissa Mei-Ling",
+        "lname": "Kim",
+        "cauthor": false
+      },
+      {
+        "fname": "Keng Soon",
+        "lname": "The",
+        "cauthor": false
+      },
+      {
+        "fname": "Roshan",
+        "lname": "Peiris",
+        "cauthor": false
+      },
+      {
+        "fname": "Yongsoon",
+        "lname": "Choi",
+        "cauthor": false
+      },
+      {
+        "fname": "Ta Huynh Duy",
+        "lname": "Nguyen",
+        "cauthor": false
+      },
+      {
+        "fname": "Tran Cong Thien",
+        "lname": "Qui",
+        "cauthor": false
+      },
+      {
+        "fname": "Athanasios",
+        "lname": "Vasilakos",
+        "cauthor": false
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "Internet-Enabled User Interfaces for Distance Learning",
+      "keywords": []
+    },
+    "source": {
+      "journal": "International Journal of Technology and Human Interaction",
+      "volume": 5,
+      "number": 1,
+      "pages": {
+        "s_page": 51,
+        "e_page": 77
+      }
+    }
+  },
+  {
+    "paper_id": 121,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Wei Lim",
+        "lname": "Zheng",
+        "cauthor": false
+      },
+      {
+        "fname": "Richard",
+        "lname": "Ling",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Defining “Fake News”",
+      "keywords": [
+        "facts",
+        "fake news",
+        "false news",
+        "misinformation",
+        "news",
+        "parody",
+        "satire"
+      ]
+    },
+    "source": {
+      "journal": "Digital Journalism",
+      "volume": 6,
+      "number": 2,
+      "pages": {
+        "s_page": 137,
+        "e_page": 153
+      }
+    }
+  },
+  {
+    "paper_id": 122,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Patrick",
+        "lname": "Ferrucci",
+        "cauthor": false
+      },
+      {
+        "fname": "Magaret",
+        "lname": "Duffy",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Facebook use, envy, and depression among college students: Is facebooking depressing?",
+      "keywords": [
+        "depression",
+        "envy",
+        "facebook",
+        "social media",
+        "students"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 43,
+      "number": false,
+      "pages": {
+        "s_page": 139,
+        "e_page": 146
+      }
+    }
+  },
+  {
+    "paper_id": 123,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Journalism is twerking? How web analytics is changing the process of gatekeeping",
+      "keywords": [
+        "audience",
+        "case study",
+        "field theory",
+        "gatekeeping",
+        "journalism",
+        "journalists",
+        "online news",
+        "twerking",
+        "web analystics"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 16,
+      "number": 4,
+      "pages": {
+        "s_page": 559,
+        "e_page": 575
+      }
+    }
+  },
+  {
+    "paper_id": 124,
+    "authors": [
+      {
+        "fname": "Bruno",
+        "lname": "Takahashi",
+        "cauthor": true,
+        "email": "btakahas@msu.edu"
+      },
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": false
+      },
+      {
+        "fname": "Christine",
+        "lname": "Carmichael",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Communicating on Twitter during a disaster: An analysis of tweets during Typhoon Haiyan in the Philippines",
+      "keywords": [
+        "content analysis",
+        "crisis",
+        "natural disasters",
+        "social media",
+        "twitter"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 50,
+      "number": false,
+      "pages": {
+        "s_page": 392,
+        "e_page": 398
+      }
+    }
+  },
+  {
+    "paper_id": 125,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Lea",
+        "lname": "Hellmueller",
+        "cauthor": false
+      },
+      {
+        "fname": "Tim",
+        "lname": "Vos",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "MIND THE GAP: Between journalistic role conception and role enactment",
+      "keywords": [
+        "cultural capital",
+        "gatekeeping",
+        "journalists",
+        "role conceptions",
+        "role enactment"
+      ]
+    },
+    "source": {
+      "journal": "Journalism Practice",
+      "volume": 7,
+      "number": 5,
+      "pages": {
+        "s_page": 539,
+        "e_page": 554
+      }
+    }
+  },
+  {
+    "paper_id": 126,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Tim",
+        "lname": "Vos",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "THE JOURNALIST IS MARKETING THE NEWS: Social media in the gatekeeping process",
+      "keywords": [
+        "case study",
+        "digital journalism",
+        "ethnography",
+        "journalism",
+        "news",
+        "online journalists",
+        "online news",
+        "social media"
+      ]
+    },
+    "source": {
+      "journal": "Journalism Practice",
+      "volume": 10,
+      "number": 8,
+      "pages": {
+        "s_page": 950,
+        "e_page": 966
+      }
+    }
+  },
+  {
+    "paper_id": 127,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Ryan",
+        "lname": "Thomas",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "THE ETHICS OF WEB ANALYTICS: Implications of using audience metrics in news construction",
+      "keywords": [
+        "audience",
+        "communitarianism",
+        "editorial autonomy",
+        "gatekeeping",
+        "journalism ethics",
+        "role conceptions",
+        "web analytics"
+      ]
+    },
+    "source": {
+      "journal": "Digital Journalism",
+      "volume": 3,
+      "number": 2,
+      "pages": {
+        "s_page": 243,
+        "e_page": 258
+      }
+    }
+  },
+  {
+    "paper_id": 128,
+    "authors": [
+      {
+        "fname": "Eun-Ju",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "eunju0204@snu.ac.kr"
+      },
+      {
+        "fname": "Edson.",
+        "lname": "Tandoc",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "When news meets the audience : how audience feedback online affects news production and consumption",
+      "keywords": [
+        "audience feedback",
+        "news consumption",
+        "news production",
+        "participatory journalism",
+        "user comments"
+      ]
+    },
+    "source": {
+      "journal": "Human Communication Research",
+      "volume": 43,
+      "number": 4,
+      "pages": {
+        "s_page": 436,
+        "e_page": 449
+      }
+    }
+  },
+  {
+    "paper_id": 129,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "WHY WEB ANALYTICS CLICK: Factors affecting the ways journalists use audience metrics",
+      "keywords": [
+        "field theory",
+        "gatekeeping",
+        "journalism",
+        "journalists",
+        "online news"
+      ]
+    },
+    "source": {
+      "journal": "Journalism Studies",
+      "volume": 16,
+      "number": 6,
+      "pages": {
+        "s_page": 782,
+        "e_page": 799
+      }
+    }
+  },
+  {
+    "paper_id": 130,
+    "authors": [
+      {
+        "fname": "Claudia",
+        "lname": "Mellado",
+        "cauthor": false
+      },
+      {
+        "fname": "Lea",
+        "lname": "Hellmueller",
+        "cauthor": false
+      },
+      {
+        "fname": "Mireya",
+        "lname": "Márquez-Ramírez",
+        "cauthor": false
+      },
+      {
+        "fname": "Maria",
+        "lname": "Humanes",
+        "cauthor": false
+      },
+      {
+        "fname": "Colin",
+        "lname": "Sparks",
+        "cauthor": false
+      },
+      {
+        "fname": "Agnieszka",
+        "lname": "Stepinska",
+        "cauthor": false
+      },
+      {
+        "fname": "Svetlana",
+        "lname": "Pasti",
+        "cauthor": false
+      },
+      {
+        "fname": "Anna-Maria",
+        "lname": "Schielicke",
+        "cauthor": false
+      },
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": false
+      },
+      {
+        "fname": "Haiyan",
+        "lname": "Wang",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "The Hybridization of Journalistic Cultures: A Comparative Study of Journalistic Role Performance",
+      "keywords": [
+        "role performance",
+        "social sciences",
+        "communication",
+        "journalistic cultures"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Communication",
+      "volume": 67,
+      "number": 6,
+      "pages": {
+        "s_page": 944,
+        "e_page": 967
+      }
+    }
+  },
+  {
+    "paper_id": 131,
+    "authors": [
+      {
+        "fname": "Claudia",
+        "lname": "Mellado",
+        "cauthor": true,
+        "email": "claudia.mellado@pucv.cl"
+      },
+      {
+        "fname": "Lea",
+        "lname": "Hellmueller",
+        "cauthor": false
+      },
+      {
+        "fname": "Mireya",
+        "lname": "Márquez-Ramírez",
+        "cauthor": false
+      },
+      {
+        "fname": "Maria",
+        "lname": "Humanes",
+        "cauthor": false
+      },
+      {
+        "fname": "Colin",
+        "lname": "Sparks",
+        "cauthor": false
+      },
+      {
+        "fname": "Agnieszka",
+        "lname": "Stepinska",
+        "cauthor": false
+      },
+      {
+        "fname": "Svetlana",
+        "lname": "Pasti",
+        "cauthor": false
+      },
+      {
+        "fname": "Anna-Maria",
+        "lname": "Schielicke",
+        "cauthor": false
+      },
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": false
+      },
+      {
+        "fname": "Haiyan",
+        "lname": "Wang",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "The Hybridization of Journalistic Cultures: A Comparative Study of Journalistic Role Performance",
+      "keywords": [
+        "Journalistic Cultures",
+        "Role Performance",
+        "Media Systems",
+        "Content Analysis",
+        "Comparative Research"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Communication",
+      "volume": 67,
+      "number": 6,
+      "pages": {
+        "s_page": 944,
+        "e_page": 967
+      }
+    }
+  },
+  {
+    "paper_id": 132,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Joy",
+        "lname": "Jenkins",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "The Buzzfeedication of journalism? How traditional news organizations are talking about a new entrant to the journalistic field will surprise you!",
+      "keywords": [
+        "Bourdieu",
+        "BuzzFeed",
+        "capital",
+        "field theory",
+        "journalism",
+        "online journalism"
+      ]
+    },
+    "source": {
+      "journal": "Journalism: Theory, Practice & Criticism",
+      "volume": 18,
+      "number": 4,
+      "pages": {
+        "s_page": 482,
+        "e_page": 500
+      }
+    }
+  },
+  {
+    "paper_id": 133,
+    "authors": [
+      {
+        "fname": "Seoyeon",
+        "lname": "Hong",
+        "cauthor": true,
+        "email": "sh2m5@mail.missouri.edu"
+      },
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": false
+      },
+      {
+        "fname": "Eunjin Anna",
+        "lname": "Kim",
+        "cauthor": false
+      },
+      {
+        "fname": "Bokyung",
+        "lname": "Kim",
+        "cauthor": false
+      },
+      {
+        "fname": "Kevin",
+        "lname": "Wise",
+        "cauthor": false
+      }
+    ],
+    "year": 2012,
+    "paper": {
+      "title": "The Real You? The Role of Visual Cues and Comment Congruence in Perceptions of Social Attractiveness from Facebook Profiles",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Cyberpsychology, Behavior, and Social Networking",
+      "volume": 15,
+      "number": 7,
+      "pages": {
+        "s_page": 339,
+        "e_page": 344
+      }
+    }
+  },
+  {
+    "paper_id": 134,
+    "authors": [
+      {
+        "fname": "Folker",
+        "lname": "Hanusch",
+        "cauthor": true,
+        "email": "folker.hanusch@univie.ac.at"
+      },
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Comments, analytics, and social media: The impact of audience feedback on journalists' market orientation",
+      "keywords": [
+        "Analytics",
+        "audience",
+        "journalism",
+        "market orientation",
+        "metrics",
+        "reader comments",
+        "roles",
+        "social media",
+        "Twitter"
+      ]
+    },
+    "source": {
+      "journal": "Journalism: Theory, Practice & Criticism",
+      "volume": 20,
+      "number": 6,
+      "pages": {
+        "s_page": 695,
+        "e_page": 713
+      }
+    }
+  },
+  {
+    "paper_id": 135,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Soo-Kwang",
+        "lname": "Oh",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Small Departures, Big Continuities?: Norms, values, and routines in The Guardian's big data journalism",
+      "keywords": [
+        "big data",
+        "content analysis",
+        "journalism",
+        "journalism practice",
+        "news values",
+        "online news"
+      ]
+    },
+    "source": {
+      "journal": "Journalism Studies",
+      "volume": 18,
+      "number": 8,
+      "pages": {
+        "s_page": 997,
+        "e_page": 1015
+      }
+    }
+  },
+  {
+    "paper_id": 136,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      },
+      {
+        "fname": "Bruno",
+        "lname": "Takahashi",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Log in if you survived: Collective coping on social media in the aftermath of Typhoon Haiyan in the Philippines",
+      "keywords": [
+        "Collective coping",
+        "crisis communication",
+        "disaster",
+        "Facebook",
+        "natural disasters",
+        "Philippines",
+        "social media",
+        "Twitter",
+        "Typhoon Haiyan"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 19,
+      "number": 11,
+      "pages": {
+        "s_page": 1778,
+        "e_page": 1793
+      }
+    }
+  },
+  {
+    "paper_id": 137,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "ectandoc@mail.missouri.edu"
+      },
+      {
+        "fname": "Bruno",
+        "lname": "Takahashi",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Playing a crusader role or just playing by the rules? Role conceptions and role inconsistencies among environmental journalists",
+      "keywords": [
+        "Environmental journalists",
+        "journalists",
+        "organizational role",
+        "role conception",
+        "role inconsistency"
+      ]
+    },
+    "source": {
+      "journal": "Journalism: Theory, Practice & Criticism",
+      "volume": 15,
+      "number": 7,
+      "pages": {
+        "s_page": 889,
+        "e_page": 907
+      }
+    }
+  },
+  {
+    "paper_id": 138,
+    "authors": [
+      {
+        "fname": "Bruno",
+        "lname": "Takahashi",
+        "cauthor": true,
+        "email": "btakahas@msu.edu"
+      },
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": false
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Media sources, credibility, and perceptions of science: Learning about how people learn about science",
+      "keywords": [
+        "media and science",
+        "popularization of science",
+        "public understanding of science",
+        "scientific literacy"
+      ]
+    },
+    "source": {
+      "journal": "Public Understanding of Science",
+      "volume": 25,
+      "number": 6,
+      "pages": {
+        "s_page": 674,
+        "e_page": 690
+      }
+    }
+  },
+  {
+    "paper_id": 139,
+    "authors": [
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": true,
+        "email": "edson@ntu.edu.sg"
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Five ways BuzzFeed is preserving (or transforming) the journalistic field",
+      "keywords": [
+        "Boundary work",
+        "BuzzFeed",
+        "field theory",
+        "online journalism",
+        "The New York Times"
+      ]
+    },
+    "source": {
+      "journal": "Journalism",
+      "volume": 19,
+      "number": 2,
+      "pages": {
+        "s_page": 200,
+        "e_page": 216
+      }
+    }
+  },
+  {
+    "paper_id": 140,
+    "authors": [
+      {
+        "fname": "Jacob",
+        "lname": "Groshek",
+        "cauthor": true,
+        "email": "jgroshek@bu.edu"
+      },
+      {
+        "fname": "Edson",
+        "lname": "Tandoc",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "The affordance effect: Gatekeeping and (non)reciprocal journalism on Twitter",
+      "keywords": [
+        "Dialogic communication",
+        "Gatekeeping",
+        "Social media",
+        "Network analysis",
+        "Reciprocal journalism"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 66,
+      "pages": {
+        "s_page": 201,
+        "e_page": 210
+      }
+    }
+  },
+
+
+{
+		"paper_id": 141,
+		"authors": [{
+				"fname": "Mengxue",
+				"lname": "Ou",
+				"cauthor": true,
+				"email": "mengxue002@ntu.edu.sg"
+			},
+			{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": false
+			}
+		],
+		"year": 2021,
+		"paper": {
+			"title": "A Meta-Analysis of Factors Related to Health Information Seeking: An Integration from Six Theoretical Frameworks",
+			"keywords": [
+				"health information seeking",
+				"meta-analysis",
+				"effect sizes",
+				"subgroup analysis"
+			]
+		},
+		"source": {
+			"journal": "Communication Research",
+			"volume": [],
+			"number": [],
+			"pages": {
+				"s_page": [],
+				"e_page": []
+			}
+		}
+	},
+	{
+		"paper_id": 142,
+		"authors": [{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": true,
+				"email": "tsyho@ntu.edu.sg"
+			},
+			{
+				"fname": "Agnes S.F.",
+				"lname": "Chuah",
+				"cauthor": false
+			}
+		],
+		"year": 2021,
+		"paper": {
+			"title": "Why support nuclear energy? The roles of citizen knowledge, trust, media use, and perceptions across five Southeast Asian countries",
+			"keywords": [
+				"Nuclear energy",
+				"Public support",
+				"Perceptual filters",
+				"Trust",
+				"Media",
+				"Southeast Asia"
+			]
+		},
+		"source": {
+			"journal": "Energy Research & Social Science",
+			"volume": 79,
+			"number": [],
+			"pages": {
+				"s_page": [],
+				"e_page": []
+			}
+		}
+	},
+	{
+		"paper_id": 143,
+		"authors": [{
+			"fname": "Shirley S.",
+			"lname": "Ho",
+			"cauthor": true,
+			"email": "tsyho@ntu.edu.sg"
+		}],
+		"year": 2021,
+		"paper": {
+			"title": "Complementary and competitive framing of driverless cars: framing effects, attitude volatility, or attitude resistance?",
+			"keywords": []
+		},
+		"source": {
+			"journal": "International Journal of Public Opinion Research",
+			"volume": [],
+			"number": [],
+			"pages": {
+				"s_page": [],
+				"e_page": []
+			}
+		}
+	},
+	{
+		"paper_id": 144,
+		"authors": [{
+				"fname": "Xiaodong",
+				"lname": "Yang",
+				"cauthor": false
+			},
+			{
+				"fname": "Ran",
+				"lname": "Wei",
+				"cauthor": false
+			},
+			{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": false
+			}
+		],
+		"year": 2021,
+		"paper": {
+			"title": "If Others Care, I Will Fight Climate Change: An Examination of Media Effects in Addressing the Public Goods Dilemma of Climate Change Mitigation",
+			"keywords": [
+				"public goods dilemma",
+				"influence of presumed media influence",
+				"climate change mitigation"
+			]
+		},
+		"source": {
+			"journal": "International Journal of Communication",
+			"volume": 15,
+			"number": [],
+			"pages": {
+				"s_page": [],
+				"e_page": []
+			}
+		}
+	},
+	{
+		"paper_id": 145,
+		"authors": [{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": true,
+				"email": "tsyho@ntu.edu.sg"
+			},
+			{
+				"fname": "Jiemin",
+				"lname": "Looi",
+				"cauthor": false
+			},
+			{
+				"fname": "Yan Wah",
+				"lname": "Leung",
+				"cauthor": false
+			},
+			{
+				"fname": "Mesfin Awoke",
+				"lname": "Bekalu",
+				"cauthor": false
+			},
+			{
+				"fname": "Kasisomayajula",
+				"lname": "Viswanath",
+				"cauthor": false
+			}
+		],
+		"year": 2020,
+		"paper": {
+			"title": "Comparing the knowledge gap hypothesis in the United States and Singapore: The case of nanotechnology",
+			"keywords": [
+				"knowledge gap hypothesis",
+				"mass media",
+				"nanotechnology",
+				"public opinion",
+				"risk perception"
+			]
+		},
+		"source": {
+			"journal": "Public Understanding of Science",
+			"volume": 29,
+			"number": 8,
+			"pages": {
+				"s_page": 835,
+				"e_page": 854
+			}
+		}
+	},
+	{
+		"paper_id": 146,
+		"authors": [{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": true,
+				"email": "tsyho@ntu.edu.sg"
+			},
+			{
+				"fname": "Tong Jee",
+				"lname": "Goh",
+				"cauthor": false
+			},
+			{
+				"fname": "Agnes S.F.",
+				"lname": "Chuah",
+				"cauthor": false
+			},
+			{
+				"fname": "Yan Wah",
+				"lname": "Leung",
+				"cauthor": false
+			},
+			{
+				"fname": "Mesfin Awoke",
+				"lname": "Bekalu",
+				"cauthor": false
+			},
+			{
+				"fname": "Kasisomayajula",
+				"lname": "Viswanath",
+				"cauthor": false
+			}
+		],
+		"year": 2020,
+		"paper": {
+			"title": "Past Debates, Fresh Impact on Nano-Enabled Food: A Multigroup Comparison of Presumed Media Influence Model Based on Spillover Effects of Attitude Toward Genetically Modified Food",
+			"keywords": []
+		},
+		"source": {
+			"journal": "Journal of Communication",
+			"volume": 70,
+			"number": 4,
+			"pages": {
+				"s_page": 598,
+				"e_page": 621
+			}
+		}
+	},
+	{
+		"paper_id": 147,
+		"authors": [{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": true,
+				"email": "tsyho@ntu.edu.sg"
+			},
+			{
+				"fname": "Tong Jee",
+				"lname": "Goh",
+				"cauthor": false
+			},
+			{
+				"fname": "Yan Wah",
+				"lname": "Leung",
+				"cauthor": false
+			}
+		],
+		"year": 2020,
+		"paper": {
+			"title": "Let’s nab fake science news: Predicting scientists’ support for interventions using the influence of presumed media influence model",
+			"keywords": [
+				"Education",
+				"fake news",
+				"influence of presumed media influence",
+				"legislation",
+				"scientists"
+			]
+		},
+		"source": {
+			"journal": "Journalism",
+			"volume": [],
+			"number": [],
+			"pages": {
+				"s_page": 1,
+				"e_page": 19
+			}
+		}
+	},
+	{
+		"paper_id": 148,
+		"authors": [{
+				"fname": "Alisius D.",
+				"lname": "Leong",
+				"cauthor": true
+			},
+			{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": false
+			}
+		],
+		"year": 2020,
+		"paper": {
+			"title": "Perceiving online public opinion: The impact of Facebook opinion cues, opinion climate congruency, and source credibility on speaking out",
+			"keywords": [
+				"Aggregated user representations",
+				"opinion climate congruency",
+				"source credibility",
+				"spiral of silence theory",
+				"user-generated comments",
+				"willingness to speak out"
+			]
+		},
+		"source": {
+			"journal": "New Media & Society",
+			"volume": [],
+			"number": [],
+			"pages": {
+				"s_page": 1,
+				"e_page": 21
+			}
+		}
+	},
+	{
+		"paper_id": 149,
+		"authors": [{
+				"fname": "Andrew Z.H.",
+				"lname": "Lee",
+				"cauthor": true,
+				"email": "andrew_yee@sutd.edu.sg"
+			},
+			{
+				"fname": "May O.",
+				"lname": "Lwin",
+				"cauthor": false
+			},
+			{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": false
+			}
+		],
+		"year": 2020,
+		"paper": {
+			"title": "Promoting Healthier Eating via Parental Communication: Development and Validation of the Active and Restrictive Parental Guidance Questionnaire (PARQ)",
+			"keywords": []
+		},
+		"source": {
+			"journal": "Health Communication",
+			"volume": [],
+			"number": [],
+			"pages": {
+				"s_page": [],
+				"e_page": []
+			}
+		}
+	},
+	{
+		"paper_id": 150,
+		"authors": [{
+				"fname": "Shirley S.",
+				"lname": "Ho",
+				"cauthor": true,
+				"email": "tsyho@ntu.edu.sg"
+			},
+			{
+				"fname": "Jiemin",
+				"lname": "Looi",
+				"cauthor": false
+			},
+			{
+				"fname": "Tong Jee",
+				"lname": "Goh",
+				"cauthor": false
+			}
+		],
+		"year": 2020,
+		"paper": {
+			"title": "Scientists as public communicators: individual- and institutional-level motivations and barriers for public communication in Singapore",
+			"keywords": [
+				"Outreach activities",
+				"science and technology",
+				"motivations",
+				"barriers",
+				"training"
+			]
+		},
+		"source": {
+			"journal": "Asian Journal of Communication",
+			"volume": 30,
+			"number": 2,
+			"pages": {
+				"s_page": 155,
+				"e_page": 178
+			}
+		}
+	},
+
+
+
+  {
+    "paper_id": 151,
+    "authors": [
+      {
+        "fname": "Shirly S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Vetra Jing Xuan",
+        "lname": "Leow",
+        "cauthor": false
+      },
+      {
+        "fname": "Yan Wah",
+        "lname": "Leung",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Driving without the brain? Effects of value predispositions, media attention, and science knowledge on public willingness to use driverless cars in Singapore",
+      "keywords": [
+        "Driverless cars",
+        "Autonomous vehicles",
+        "Cognitive miser model",
+        "Science literacy model",
+        "Media attention"
+      ]
+    },
+    "source": {
+      "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+      "volume": 71,
+      "number": 1,
+      "pages": {
+        "s_page": 49,
+        "e_page": 61
+      }
+    }
+  },
+  {
+    "paper_id": 152,
+    "authors": [
+      {
+        "fname": "Shirly S.",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "Nuri",
+        "lname": "Kim",
+        "cauthor": false
+      },
+      {
+        "fname": "Jiemin",
+        "lname": "Looi",
+        "cauthor": false
+      },
+      {
+        "fname": "Alisius D.",
+        "lname": "Leong",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Care, competency, or honesty? Framing emergency preparedness messages and risks for nuclear energy in Singapore",
+      "keywords": [
+        "Framing",
+        "Cognitive miser model",
+        "Communication channel",
+        "Trust Nuclear energy",
+        "Risk perceptions"
+      ]
+    },
+    "source": {
+      "journal": "Energy Research & Social Science",
+      "volume": 65,
+      "number": 1,
+      "pages": {
+        "s_page": 101477,
+        "e_page": 101477
+      }
+    }
+  },
+  {
+    "paper_id": 153,
+    "authors": [
+      {
+        "fname": "Edmund W. J.",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "edmundlee@ntu.edu.sg"
+      },
+      {
+        "fname": "Han",
+        "lname": "Zheng",
+        "cauthor": false
+      },
+      {
+        "fname": "Htet Htet",
+        "lname": "Aung",
+        "cauthor": false
+      },
+      {
+        "fname": "Vared",
+        "lname": "Seidmann",
+        "cauthor": false
+      },
+      {
+        "fname": "Chen",
+        "lname": "Li",
+        "cauthor": false
+      },
+      {
+        "fname": "Megha Rani",
+        "lname": "Aroor",
+        "cauthor": false
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "Yin-Leng",
+        "lname": "Theng",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Examining Organizational, Cultural, and Individual-Level Factors Related to Workplace Safety and Health: A Systematic Review and Metric Analysis",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Health Communication",
+      "volume": 36,
+      "number": 5,
+      "pages": {
+        "s_page": 529,
+        "e_page": 539
+      }
+    }
+  },
+  {
+    "paper_id": 154,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Jiemin",
+        "lname": "Looi",
+        "cauthor": false
+      },
+      {
+        "fname": "Yan Wah",
+        "lname": "Leung",
+        "cauthor": false
+      },
+      {
+        "fname": "Tong Jee",
+        "lname": "Goh",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Public engagement by researchers of different disciplines in Singapore : a qualitative comparison of macro‐ and meso‐level concerns",
+      "keywords": [
+        "art and science",
+        "focus group discussions",
+        "interaction experts/publics",
+        "neo-institutional theory",
+        "public engagement"
+      ]
+    },
+    "source": {
+      "journal": "Public Understanding of Science",
+      "volume": 29,
+      "number": 2,
+      "pages": {
+        "s_page": 211,
+        "e_page": 229
+      }
+    }
+  },
+  {
+    "paper_id": 155,
+    "authors": [
+      {
+        "fname": "Xiaodong",
+        "lname": "Yang",
+        "cauthor": false
+      },
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": true,
+        "email": "ch0087ng@ntu.edu.sg."
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Does media exposure relate to the illusion of knowing in the public understanding of climate change?",
+      "keywords": [
+        "elaboration",
+        "media attention",
+        "the illusion of knowing"
+      ]
+    },
+    "source": {
+      "journal": "Public Understanding of Science",
+      "volume": 29,
+      "number": 1,
+      "pages": {
+        "s_page": 94,
+        "e_page": 111
+      }
+    }
+  },
+  {
+    "paper_id": 156,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May Oo",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": true,
+        "email": "chenliang7@mail.sysu.edu.cn"
+      },
+      {
+        "fname": "Minyi",
+        "lname": "Chen",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Development and validation of a parental social media mediation scale across child and parent samples",
+      "keywords": [
+        "Social media",
+        "Conceptualization",
+        "Scale development",
+        "Operationalization",
+        "Parental mediation"
+      ]
+    },
+    "source": {
+      "journal": "Internet Research",
+      "volume": 30,
+      "number": 2,
+      "pages": {
+        "s_page": 677,
+        "e_page": 694
+      }
+    }
+  },
+  {
+    "paper_id": 157,
+    "authors": [
+      {
+        "fname": "Snehasish",
+        "lname": "Banerjee",
+        "cauthor": true,
+        "email": "snehasish.banerjee@york.ac.uk"
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Applying the theory of planned behavior: Examining how communication, attitudes, social norms, and perceived behavioral control relate to healthy lifestyle intention in Singapore",
+      "keywords": [
+        "Healthy lifestyle",
+        "Interpersonal communication",
+        "Media consumption",
+        "Theory of planned behavior",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Healthcare Management",
+      "volume": 13,
+      "number": 1,
+      "pages": {
+        "s_page": 496,
+        "e_page": 503
+      }
+    }
+  },
+  {
+    "paper_id": 158,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Silje",
+        "lname": "Kristiansen",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Environmental Debates over Nuclear Energy: Media, Communication, and the Public",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Environmental Communication",
+      "volume": 13,
+      "number": 4,
+      "pages": {
+        "s_page": 431,
+        "e_page": 439
+      }
+    }
+  },
+  {
+    "paper_id": 159,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Alisius Deon",
+        "lname": "Leong",
+        "cauthor": false
+      },
+      {
+        "fname": "Jiemin",
+        "lname": "Looi",
+        "cauthor": false
+      },
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": false
+      },
+      {
+        "fname": "Natalie",
+        "lname": "Pang",
+        "cauthor": false
+      },
+      {
+        "fname": "Edson C., Jr.",
+        "lname": "Tandoc",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Science literacy or value predisposition? A meta‐analysis of factors predicting public perceptions of benefits, risks, and acceptance of nuclear energy",
+      "keywords": [
+        "Nuclear",
+        "energy",
+        "meta-analysis",
+        "risk perception",
+        "benefit perception",
+        "science knowledge"
+      ]
+    },
+    "source": {
+      "journal": "Environmental Communication",
+      "volume": 13,
+      "number": 4,
+      "pages": {
+        "s_page": 457,
+        "e_page": 471
+      }
+    }
+  },
+  {
+    "paper_id": 160,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Tsuyoshi",
+        "lname": "Oshita",
+        "cauthor": false
+      },
+      {
+        "fname": "Jiemin",
+        "lname": "Looi",
+        "cauthor": false
+      },
+      {
+        "fname": "Alisius Deon",
+        "lname": "Leong",
+        "cauthor": false
+      },
+      {
+        "fname": "Agnes Soo Fei",
+        "lname": "Chuah",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Exploring public perceptions of benefits and risks, trust, and acceptance of nuclear energy in Thailand and Vietnam : a qualitative approach",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Energy policy",
+      "volume": 127,
+      "number": 1,
+      "pages": {
+        "s_page": 259,
+        "e_page": 268
+      }
+    }
+  },
+  {
+    "paper_id": 161,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "May Oo",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrew Zi Han",
+        "lname": "Yee",
+        "cauthor": false
+      },
+      {
+        "fname": "Jeremy Rong Hui",
+        "lname": "Sng",
+        "cauthor": false
+      },
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Parents' responses to cyberbullying effects : how third‑person perception influences support for legislation and parental mediation strategies.",
+      "keywords": [
+        "Third-person effect",
+        "perceptual gap",
+        "parental mediation",
+        "legislation",
+        "support",
+        "cyberbullying",
+        "social media"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behaviour",
+      "volume": 92,
+      "number": 0,
+      "pages": {
+        "s_page": 373,
+        "e_page": 380
+      }
+    }
+  },
+  {
+    "paper_id": 162,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Alisius Deon",
+        "lname": "Leong",
+        "cauthor": false
+      },
+      {
+        "fname": "Jiemin",
+        "lname": "Looi",
+        "cauthor": false
+      },
+      {
+        "fname": "Agnes Soo Fei",
+        "lname": "Chuah",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Online, offline, or word‑of‑mouth? Complementary media usage patterns and credibility perceptions of nuclear energy information in Southeast Asia.",
+      "keywords": [
+        "nuclear energy",
+        "Southeast Asia",
+        "communication channels",
+        "credibility"
+      ]
+    },
+    "source": {
+      "journal": "Energy Research & Social Science",
+      "volume": 48,
+      "number": 0,
+      "pages": {
+        "s_page": 46,
+        "e_page": 56
+      }
+    }
+  },
+  {
+    "paper_id": 163,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Jiemin",
+        "lname": "Looi",
+        "cauthor": false
+      },
+      {
+        "fname": "Alisius Deon",
+        "lname": "Leong",
+        "cauthor": false
+      },
+      {
+        "fname": "Yan Wah",
+        "lname": "Leung",
+        "cauthor": false
+      }
+    ],
+    "year": 2019,
+    "paper": {
+      "title": "Explicating factual and subjective science knowledge : knowledge as a mediator of news attention and attitudes.",
+      "keywords": [
+        "Factual knowledge",
+        "subjective knowledge",
+        "support for science and technology",
+        "news attention"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 29,
+      "number": 1,
+      "pages": {
+        "s_page": 73,
+        "e_page": 91
+      }
+    }
+  },
+  {
+    "paper_id": 164,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Jiemin",
+        "lname": "Looi",
+        "cauthor": false
+      },
+      {
+        "fname": "Agnes Soo Fei",
+        "lname": "Chuah",
+        "cauthor": false
+      },
+      {
+        "fname": "Alisius Deon",
+        "lname": "Leong",
+        "cauthor": false
+      },
+      {
+        "fname": "Natalie",
+        "lname": "Pang",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "“I can live with nuclear energy if⋯” : exploring public perceptions of nuclear energy in Singapore.",
+      "keywords": [
+        "nuclear energy",
+        "Southeast Asia",
+        "Singapore",
+        "psychometric paradigm",
+        "source credibility theory"
+      ]
+    },
+    "source": {
+      "journal": "Energy Policy",
+      "volume": 120,
+      "number": 0,
+      "pages": {
+        "s_page": 436,
+        "e_page": 447
+      }
+    }
+  },
+  {
+    "paper_id": 165,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Xiaodong",
+        "lname": "Yang",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Communication, cognitive processing, and public knowledge about climate change.",
+      "keywords": [
+        "Cognitive mediation model",
+        "traditional media",
+        "online media",
+        "information processing",
+        "motivation"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 28,
+      "number": 5,
+      "pages": {
+        "s_page": 449,
+        "e_page": 467
+      }
+    }
+  },
+  {
+    "paper_id": 166,
+    "authors": [
+      {
+        "fname": "Benjamin Hill",
+        "lname": "Detenber",
+        "cauthor": true,
+        "email": "tdetenber@ntu.edu.sg"
+      },
+      {
+        "fname": "Shirley Sooyee",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "Adeline H.",
+        "lname": "Ong",
+        "cauthor": false
+      },
+      {
+        "fname": "Nigel W. B.",
+        "lname": "Lim",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Complementary Versus Competitive Framing Effects in the Context of Pro‑Environmental Attitudes and Behaviors.",
+      "keywords": [
+        "framing theory",
+        "climate change communication",
+        "competitive framing",
+        "pro-environmental behaviour",
+        "green energy technology"
+      ]
+    },
+    "source": {
+      "journal": "Science Communication",
+      "volume": 40,
+      "number": 2,
+      "pages": {
+        "s_page": 173,
+        "e_page": 198
+      }
+    }
+  },
+  {
+    "paper_id": 167,
+    "authors": [
+      {
+        "fname": "Agnes Soo Fei",
+        "lname": "Chuah",
+        "cauthor": true,
+        "email": "schuah001@ntu.edu.sg"
+      },
+      {
+        "fname": "Alisius Deon",
+        "lname": "Leong",
+        "cauthor": false
+      },
+      {
+        "fname": "Christopher L.",
+        "lname": "Cummings",
+        "cauthor": false
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Label it or ban it? Public perceptions of nano‑food labels and propositions for banning nano‑food applications.",
+      "keywords": [
+        "nano-food",
+        "science knowledge",
+        "risk perception",
+        "benefit perception",
+        "media use",
+        "labeling",
+        "banning"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Nanoparticle Research",
+      "volume": 20,
+      "number": 2,
+      "pages": {
+        "s_page": 0,
+        "e_page": 0
+      }
+    }
+  },
+  {
+    "paper_id": 168,
+    "authors": [
+      {
+        "fname": "Christopher L.",
+        "lname": "Cummings",
+        "cauthor": true,
+        "email": "ccummings@ntu.edu.sg"
+      },
+      {
+        "fname": "Agnes Soo Fei",
+        "lname": "Chuah",
+        "cauthor": false
+      },
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Protection motivation and communication through nanofood labels : improving predictive capabilities of attitudes and purchase intentions toward nanofoods.",
+      "keywords": [
+        "Nano-food",
+        "food labels",
+        "risk",
+        "protection motivation"
+      ]
+    },
+    "source": {
+      "journal": "Science Technology and Human Values",
+      "volume": 43,
+      "number": 5,
+      "pages": {
+        "s_page": 888,
+        "e_page": 916
+      }
+    }
+  },
+  {
+    "paper_id": 169,
+    "authors": [
+      {
+        "fname": "Edmund Wei Jian",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "leew0124@e.ntu.edu.sg"
+      },
+      {
+        "fname": "Shirley Sooyee",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2018,
+    "paper": {
+      "title": "Are photographs worth more than a thousand words? Examining the effects of photographic–textual and textual‑only frames on public attitude toward nuclear energy and nanotechnology.",
+      "keywords": [
+        "Photographic framing",
+        "visual framing",
+        "risk perception",
+        "nanotechnology",
+        "nuclear energy"
+      ]
+    },
+    "source": {
+      "journal": "Journalism and Mass Communication Quarterly",
+      "volume": 95,
+      "number": 4,
+      "pages": {
+        "s_page": 948,
+        "e_page": 970
+      }
+    }
+  },
+  {
+    "paper_id": 170,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrew Z. H.",
+        "lname": "Yee",
+        "cauthor": false
+      },
+      {
+        "fname": "Edmund W. J.",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Understanding factors associated with Singaporean adolescents’ privacy protection behavior using an extended theory of planned behavior.",
+      "keywords": [
+        "social network sites",
+        "theory of planned behavior",
+        "privacy protention behavior",
+        "privacy concern"
+      ]
+    },
+    "source": {
+      "journal": "Cyberpsychology, Behavior, & Social Networking",
+      "volume": 20,
+      "number": 9,
+      "pages": {
+        "s_page": 572,
+        "e_page": 579
+      }
+    }
+  },
+  {
+    "paper_id": 171,
+    "authors": [
+      {
+        "fname": "Rajan",
+        "lname": "Satapathy",
+        "cauthor": false
+      },
+      {
+        "fname": "Iti",
+        "lname": "Chaturvedi",
+        "cauthor": false
+      },
+      {
+        "fname": "Erik",
+        "lname": "Cambria",
+        "cauthor": false
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "Jin Cheon",
+        "lname": "Na",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Subjectivity Detection in Nuclear Energy Tweets",
+      "keywords": [
+        "Subjectivity detection",
+        "Nuclear energy",
+        "Tweets"
+      ]
+    },
+    "source": {
+      "journal": "Computación y Sistemas",
+      "volume": 21,
+      "number": 4,
+      "pages": {
+        "s_page": 657,
+        "e_page": 664
+      }
+    }
+  },
+  {
+    "paper_id": 172,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Edmund W.J.",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Till logout do us part? Comparison of factors predicting excessive social network sites use and addiction between Singaporean adolescents and adults",
+      "keywords": [
+        "Theory of planned behavior",
+        "Social network sites",
+        "Adolescents",
+        "Adults",
+        "Social media addiction",
+        "Social media sites addiction"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 75,
+      "number": [],
+      "pages": {
+        "s_page": 632,
+        "e_page": 642
+      }
+    }
+  },
+  {
+    "paper_id": 173,
+    "authors": [
+      {
+        "fname": "Xiaodong",
+        "lname": "Yang",
+        "cauthor": true,
+        "email": "xyang012@e.ntu.edu.sg"
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Decreasing the knowledge gap among different socioeconomic status groups on the issue of climate change",
+      "keywords": [
+        "Climate change",
+        "Mass media",
+        "Knowledge gap",
+        "Collective Action",
+        "Education"
+      ]
+    },
+    "source": {
+      "journal": "Environmental Hazards",
+      "volume": 16,
+      "number": 3,
+      "pages": {
+        "s_page": 276,
+        "e_page": 290
+      }
+    }
+  },
+  {
+    "paper_id": 174,
+    "authors": [
+      {
+        "fname": "Xiaodong",
+        "lname": "Yang",
+        "cauthor": true,
+        "email": "xyang012@e.ntu.edu.sg"
+      },
+      {
+        "fname": "Agnes S. F.",
+        "lname": "Chua",
+        "cauthor": false
+      },
+      {
+        "fname": "Edmund W.J.",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Extending the Cognitive Mediation Model: Examining Factors Associated With Perceived Familiarity and Factual Knowledge of Nanotechnology",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Mass Communication and Society",
+      "volume": 20,
+      "number": 3,
+      "pages": {
+        "s_page": 403,
+        "e_page": 426
+      }
+    }
+  },
+  {
+    "paper_id": 175,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Xiaodong",
+        "lname": "Yang",
+        "cauthor": false
+      },
+      {
+        "fname": "Amber",
+        "lname": "Thanwarani",
+        "cauthor": false
+      },
+      {
+        "fname": "Juliana M.",
+        "lname": "Chan",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Examining public acquisition of science knowledge from social media in Singapore: an extension of the cognitive mediation model",
+      "keywords": [
+        "Cognitive mediation model",
+        "Social media",
+        "Motivation",
+        "Information processing",
+        "Science knowledge"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 27,
+      "number": 2,
+      "pages": {
+        "s_page": 193,
+        "e_page": 212
+      }
+    }
+  },
+  {
+    "paper_id": 176,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": false
+      },
+      {
+        "fname": "Angelica P.Y.",
+        "lname": "Ng",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Comparing cyberbullying perpetration on social media between primary and secondary school students",
+      "keywords": [
+        "Computer-mediated communication",
+        "Secondary education",
+        "Elementary education",
+        "Cyberbullying",
+        "Social media"
+      ]
+    },
+    "source": {
+      "journal": "Computers & Education",
+      "volume": 109,
+      "number": [],
+      "pages": {
+        "s_page": 78,
+        "e_page": 84
+      }
+    }
+  },
+  {
+    "paper_id": 177,
+    "authors": [
+      {
+        "fname": "Andrew Z.H.",
+        "lname": "Yee",
+        "cauthor": true,
+        "email": "ayee002@e.ntu.edu.sg"
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Tan",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "The influence of parental practices on child promotive and preventive food consumption behaviors: a systematic review and meta-analysisn",
+      "keywords": [
+        "Parent",
+        "Child",
+        "Nutrition",
+        "Food",
+        "Eating",
+        "Fruits",
+        "Vegetables",
+        "Sugar",
+        "Healthy",
+        "Unhealthy",
+        "Consumption"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+      "volume": 14,
+      "number": 47,
+      "pages": {
+        "s_page": [],
+        "e_page": []
+      }
+    }
+  },
+  {
+    "paper_id": 178,
+    "authors": [
+      {
+        "fname": "Edmund W.j.",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "elwj88@gmail.com"
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Extending the social cognitive model - Examining the external and personal antecedents of social network sites use among Singaporean adolescents",
+      "keywords": [
+        "Social media",
+        "Adolescents",
+        "Social cognitive theory",
+        "Self-regulation",
+        "Habit strength",
+        "Addiction"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 67,
+      "number": [],
+      "pages": {
+        "s_page": 240,
+        "e_page": 251
+      }
+    }
+  },
+  {
+    "paper_id": 179,
+    "authors": [
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Jeremy R.H.",
+        "lname": "Sng",
+        "cauthor": false
+      },
+      {
+        "fname": "Andrew Z.H.",
+        "lname": "Yee",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Escaping through exergames: Presence, enjoyment, and mood experience in predicting children's attitude toward exergames",
+      "keywords": [
+        "Exergames",
+        "Presence",
+        "Mood",
+        "Game enjoyment",
+        "Attitudes",
+        "Children",
+        "Escapism"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 72,
+      "number": [],
+      "pages": {
+        "s_page": 381,
+        "e_page": 389
+      }
+    }
+  },
+  {
+    "paper_id": 180,
+    "authors": [
+      {
+        "fname": "Edmund W.j.",
+        "lname": "Lee",
+        "cauthor": true,
+        "email": "elwj88@gmail.com"
+      },
+      {
+        "fname": "Shirley S.",
+        "lname": "Ho",
+        "cauthor": false
+      },
+      {
+        "fname": "May O.",
+        "lname": "Lwin",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Explicating problematic social network sites use: A review of concepts, theoretical frameworks, and future directions for communication theorizing",
+      "keywords": [
+        "Adolescents",
+        "Macrosystem",
+        "Media addiction",
+        "Microsystem",
+        "Peers",
+        "Problematic use",
+        "Social network",
+        "Social network sites (SNSs)",
+        "Surveillance culture"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 19,
+      "number": 2,
+      "pages": {
+        "s_page": 308,
+        "e_page": 326
+      }
+    }
+  },
+  {
+    "paper_id": 181,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Benjamin",
+        "lname": "Detenber",
+        "cauthor": false
+      },
+      {
+        "fname": "Sonny",
+        "lname": "Rosenthal",
+        "cauthor": true
+      },
+      {
+        "fname": "Youqing",
+        "lname": "Liao",
+        "cauthor": true
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Audience Segmentation for Campaign Design: Addressing Climate Change in Singapore",
+      "keywords": [
+        "climate change",
+        "communication behavior",
+        "national survey",
+        "public opinion",
+        "segmentation analysis"
+      ]
+    },
+    "source": {
+      "journal": "International Journal of Communication",
+      "volume": 10,
+      "number": false,
+      "pages": {
+        "s_page": 4736,
+        "e_page": 4758
+      }
+    }
+  },
+  {
+    "paper_id": 182,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Natalie",
+        "lname": "Pang",
+        "cauthor": false
+      },
+      {
+        "fname": "Alex M. R.",
+        "lname": "Zhang",
+        "cauthor": true
+      },
+      {
+        "fname": "Jeremy S. W.",
+        "lname": "Ko",
+        "cauthor": true
+      },
+      {
+        "fname": "W. X.",
+        "lname": "Low",
+        "cauthor": true
+      },
+      {
+        "fname": "Kay S. Y.",
+        "lname": "Tan",
+        "cauthor": true
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Can Spiral of Silence and Civility Predict Click Speech on Facebook?",
+      "keywords": [
+        "Facebook",
+        "spiral of silence",
+        "fear of isolation",
+        "opinion congruency",
+        "message civility"
+      ]
+    },
+    "source": {
+      "journal": "Computers in Human Behavior",
+      "volume": 64,
+      "number": false,
+      "pages": {
+        "s_page": 898,
+        "e_page": 905
+      }
+    }
+  },
+  {
+    "paper_id": 183,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": false,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Edmund W. J.",
+        "lname": "Lee",
+        "cauthor": true
+      },
+      {
+        "fname": "Youqing",
+        "lname": "Liao",
+        "cauthor": true
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Social Network Sites, Friends, and Celebrities: The Roles of Social Comparison and Celebrity Involvement in AdolescentsÕ Body Image Dissatisfaction",
+      "keywords": [
+        "social media",
+        "social comparison theory",
+        "body image",
+        "adolescents",
+        "media effects"
+      ]
+    },
+    "source": {
+      "journal": "Social Media & Society",
+      "volume": 2,
+      "number": 3,
+      "pages": {
+        "s_page": 1,
+        "e_page": 11
+      }
+    }
+  },
+  {
+    "paper_id": 184,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Youqing",
+        "lname": "Liao",
+        "cauthor": false
+      },
+      {
+        "fname": "Xiaodong",
+        "lname": "Yang",
+        "cauthor": true
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Motivators of Pro?environmental Behavior: Examining the Underlying Processes in the Influence of Presumed Media Influence Model",
+      "keywords": [
+        "influence of presumed media influence",
+        "environmental communication",
+        "descriptive norms",
+        "subjective norms",
+        "injunctive norms",
+        "pro-environmental behavior"
+      ]
+    },
+    "source": {
+      "journal": "Science Communication",
+      "volume": 38,
+      "number": 1,
+      "pages": {
+        "s_page": 51,
+        "e_page": 73
+      }
+    }
+  },
+  {
+    "paper_id": 185,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "May Oo",
+        "lname": "Lwin",
+        "cauthor": false
+      },
+      {
+        "fname": "Younbo",
+        "lname": "Jung",
+        "cauthor": true
+      },
+      {
+        "fname": "Yin Leng",
+        "lname": "Theng",
+        "cauthor": true
+      },
+      {
+        "fname": "Reidinar J.",
+        "lname": "Wardoyo",
+        "cauthor": true
+      },
+      {
+        "fname": "Hyo Jung",
+        "lname": "Kim",
+        "cauthor": true
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Effects of Exergaming and Message Framing in School Environments on Physical Activity Attitudes and Intentions of Children and Adolescents",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Health Communication",
+      "volume": 21,
+      "number": 9,
+      "pages": {
+        "s_page": 969,
+        "e_page": 978
+      }
+    }
+  },
+  {
+    "paper_id": 186,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": false,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Edmund W. J.",
+        "lname": "Lee",
+        "cauthor": true
+      },
+      {
+        "fname": "Kaijie",
+        "lname": "Ng",
+        "cauthor": true
+      },
+      {
+        "fname": "Grace S. H.",
+        "lname": "Leong",
+        "cauthor": true
+      },
+      {
+        "fname": "Tiffany H. M.",
+        "lname": "Tham",
+        "cauthor": true
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "For FitÕs Sake: A Norms-Based Approach to Healthy Behaviors Through Influence of Presumed Media Influence",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Health Communication",
+      "volume": 31,
+      "number": 9,
+      "pages": {
+        "s_page": 1072,
+        "e_page": 1080
+      }
+    }
+  },
+  {
+    "paper_id": 187,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Edmund W. J.",
+        "lname": "Lee",
+        "cauthor": false
+      },
+      {
+        "fname": "Mincheol",
+        "lname": "Shin",
+        "cauthor": true
+      },
+      {
+        "fname": "Ariffin",
+        "lname": "Kawaja",
+        "cauthor": true
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "The Augmented Cognitive Mediation Model: Examining Antecedents of Factual and Structural Breast Cancer Knowledge Among Singaporean Women",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Journal of Health Communication",
+      "volume": 21,
+      "number": 5,
+      "pages": {
+        "s_page": 583,
+        "e_page": 592
+      }
+    }
+  },
+  {
+    "paper_id": 188,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Liang",
+        "lname": "Chen",
+        "cauthor": false
+      },
+      {
+        "fname": "May Oo",
+        "lname": "Lwin",
+        "cauthor": true
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "A meta?analysis of factors predicting cyberbullying perpetration and victimization: From the social cognitive and media effects approach",
+      "keywords": [
+        "cyberbullying perpetration",
+        "cyberbullying victimization",
+        "media effects",
+        "meta-analysis",
+        "social cognition"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 19,
+      "number": 8,
+      "pages": {
+        "s_page": 1194,
+        "e_page": 1293
+      }
+    }
+  },
+  {
+    "paper_id": 189,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Edmund W. J.",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Staying abreast of breast cancer: Examining how communication and motivation relate to Singaporean women's breast cancer knowledge",
+      "keywords": [
+        "breast cancer",
+        "mass media",
+        "interpersonal communication",
+        "elaboration",
+        "risk perception",
+        "fatalism",
+        "knowledge",
+        "structural knowledge",
+        "Singapore"
+      ]
+    },
+    "source": {
+      "journal": "Asian Journal of Communication",
+      "volume": 25,
+      "number": 4,
+      "pages": {
+        "s_page": 422,
+        "e_page": 442
+      }
+    }
+  },
+  {
+    "paper_id": 190,
+    "authors": [
+      {
+        "fname": "Shirley Soo Yee",
+        "lname": "Ho",
+        "cauthor": true,
+        "email": "tsyho@ntu.edu.sg"
+      },
+      {
+        "fname": "Edmund W. J.",
+        "lname": "Lee",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "The perceived familiarity gap hypothesis: Examining how media attention and reflective integration relate to perceived familiarity with nanotechnology in Singapore",
+      "keywords": [
+        "Knowledge gap",
+        "Perceived familiarity",
+        "Nanotechnology",
+        "Mass media",
+        "Reflective integration"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Nanoparticle Research",
+      "volume": 17,
+      "number": false,
+      "pages": {
+        "s_page": 228,
+        "e_page": 242
+      }
+    }
+  },
+  {
+    "paper_id": 191,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      },
+      {
+        "fname": "Katie",
+        "lname": "Ellis",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Disability Media Participation: Opportunities obstacles and politics",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Media International Australia",
+      "volume": 154,
+      "number": 1,
+      "pages": {
+        "s_page": 78,
+        "e_page": 88
+      }
+    }
+  },
+  {
+    "paper_id": 192,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      },
+      {
+        "fname": "Scott",
+        "lname": "Hollier",
+        "cauthor": false
+      },
+      {
+        "fname": "Wayne",
+        "lname": "Hawkins",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Internet accessibility and disability policy: lessons for digital inclusion and equality from Australia",
+      "keywords": [
+        "disability",
+        "accessibility",
+        "internet policy",
+        "web accessibility",
+        "universal design"
+      ]
+    },
+    "source": {
+      "journal": "Internet Policy Review",
+      "volume": 6,
+      "number": 1,
+      "pages": {
+        "s_page": 1,
+        "e_page": 10
+      }
+    }
+  },
+  {
+    "paper_id": 193,
+    "authors": [
+      {
+        "fname": "Fiona",
+        "lname": "Martin",
+        "cauthor": false
+      },
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      }
+    ],
+    "year": 2016,
+    "paper": {
+      "title": "Digital Transformations?: Gendering the End User in Digital Government Policy",
+      "keywords": [
+        "digital government",
+        "women",
+        "gender",
+        "user",
+        "design",
+        "disability"
+      ]
+    },
+    "source": {
+      "journal": "Journal of Information Policy",
+      "volume": 6,
+      "pages": {
+        "s_page": 436,
+        "e_page": 459
+      }
+    }
+  },
+  {
+    "paper_id": 194,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "New Ideas for Digital Affordability: Is a Paradigm Shift Possible?",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Australian Journal of Telecommunications and the Digital Economy",
+      "volume": 2,
+      "number": 2,
+      "pages": {
+        "s_page": 1,
+        "e_page": 16
+      }
+    }
+  },
+  {
+    "paper_id": 195,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Disability and mobile Internet",
+      "keywords": []
+    },
+    "source": {
+      "journal": "First Monday",
+      "volume": 20,
+      "number": 9,
+      "pages": {
+        "s_page": 1,
+        "e_page": 15
+      }
+    }
+  },
+  {
+    "paper_id": 196,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      },
+      {
+        "fname": "Christina",
+        "lname": "Spurgeon",
+        "cauthor": false
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "Premium rate culture:The new business of mobile interactivity",
+      "keywords": [
+        "premium rate telecommunications",
+        "mobile phones",
+        "premium mobile services",
+        "mobile messaging",
+        "SMS",
+        "interactivity",
+        "mobile Internet"
+      ]
+    },
+    "source": {
+      "journal": "New Media & Society",
+      "volume": 9,
+      "number": 5,
+      "pages": {
+        "s_page": 753,
+        "e_page": 770
+      }
+    }
+  },
+  {
+    "paper_id": 197,
+    "authors": [
+      {
+        "fname": "César",
+        "lname": "Torres",
+        "cauthor": true,
+        "email": "cesar.albarrantorres@sydney.edu.au"
+      },
+      {
+        "fname": "Gerard",
+        "lname": "Goggins",
+        "cauthor": false
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Mobile social gambling:Poker’s next frontier",
+      "keywords": [
+        "mobile media",
+        "online gambling",
+        "social gaming",
+        "social networking"
+      ]
+    },
+    "source": {
+      "journal": "Mobile Media & Communication",
+      "volume": 2,
+      "number": 1,
+      "pages": {
+        "s_page": 94,
+        "e_page": 109
+      }
+    }
+  },
+  {
+    "paper_id": 198,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      }
+    ],
+    "year": 2008,
+    "paper": {
+      "title": "Innovation and Disability",
+      "keywords": []
+    },
+    "source": {
+      "journal": "M/C Journal",
+      "volume": 11,
+      "number": 3,
+      "pages": {
+        "s_page": 1,
+        "e_page": 11
+      }
+    }
+  },
+  {
+    "paper_id": 199,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      },
+      {
+        "fname": "Christopher",
+        "lname": "Newell",
+        "cauthor": false
+      }
+    ],
+    "year": 2006,
+    "paper": {
+      "title": "Disabled e‐nation: telecommunications, disability, and national policy",
+      "keywords": [
+        "disability",
+        "accessibility",
+        "telecommunications",
+        "Internet",
+        "nation",
+        "technology",
+        "policy"
+      ]
+    },
+    "source": {
+      "journal": "Prometheus",
+      "volume": 22,
+      "number": 4,
+      "pages": {
+        "s_page": 411,
+        "e_page": 422
+      }
+    }
+  },
+  {
+    "paper_id": 200,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": true,
+        "email": "gerard.goggin@ntu.edu.sg"
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "COVID-19 apps in Singapore and Australia: reimagining healthy nations with digital technology",
+      "keywords": [
+        "Australia",
+        "contact tracing apps",
+        "COVID-19",
+        "digital media",
+        "health communication",
+        "infectious diseases",
+        "Singapore",
+        "smartphones"
+      ]
+    },
+    "source": {
+      "journal": "Media International Australia",
+      "volume": 177,
+      "number": 1,
+      "pages": {
+        "s_page": 61,
+        "e_page": 75
+      }
+    }
+  },
+  {
+    "paper_id": 201,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "email": "g.goggin@unsw.edu.au"
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "Adapting the mobile phone: The iPhone and its consumption",
+      "keywords": [
+        "Communication & culture",
+        "Cell phones",
+        "iPhone (Smartphone)"
+      ]
+    },
+    "source": {
+      "journal": "Continuum: Journal of Media & Cultural Studies",
+      "volume": 23,
+      "number": 2,
+      "pages": {
+        "s_page": 231,
+        "e_page": 244
+      }
+    }
+  },
+  {
+    "paper_id": 202,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "email": "gerard.goggin@sydney.edu.au"
+      }
+    ],
+    "year": 2011,
+    "paper": {
+      "title": "Ubiquitous apps: politics of openness in global mobile cultures",
+      "keywords": [
+        "apps",
+        "smartphones",
+        "mobile media",
+        "openness",
+        "mobile Internet"
+      ]
+    },
+    "source": {
+      "journal": "Digital Creativity",
+      "volume": 22,
+      "number": 3,
+      "pages": {
+        "s_page": 148,
+        "e_page": 159
+      }
+    }
+  },
+  {
+    "paper_id": 203,
+    "authors": [
+      {
+        "fname": "Meryl",
+        "lname": "Alper",
+        "cauthor": true,
+        "email": "m.alper@northeastern.edu"
+      },
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": false
+      }
+    ],
+    "year": 2017,
+    "paper": {
+      "title": "Digital technology and rights in the lives of children with disabilities",
+      "keywords": [
+        "Children",
+        "digital technology",
+        "disability",
+        "Internet",
+        "media",
+        "rights"
+      ]
+    },
+    "source": {
+      "journal": "new media & society",
+      "volume": 19,
+      "number": 5,
+      "pages": {
+        "s_page": 726,
+        "e_page": 740
+      }
+    }
+  },
+  {
+    "paper_id": 204,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": true,
+        "email": "gerard.goggin@arts.usyd.edu.au"
+      },
+      {
+        "fname": "Christopher",
+        "lname": "Newell",
+        "cauthor": false
+      }
+    ],
+    "year": 2007,
+    "paper": {
+      "title": "The Business of Digital Disability",
+      "keywords": [
+        "access",
+        "digital technologies",
+        "disability",
+        "equity",
+        "inclusive technology",
+        "information and communication technologies",
+        "Internet",
+        "telecommunications"
+      ]
+    },
+    "source": {
+      "journal": "The Information Society",
+      "volume": 23,
+      "number": 3,
+      "pages": {
+        "s_page": 159,
+        "e_page": 168
+      }
+    }
+  },
+  {
+    "paper_id": 205,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin"
+      },
+      {
+        "fname": "Christopher",
+        "lname": "Newell"
+      }
+    ],
+    "year": 2000,
+    "paper": {
+      "title": "CRIPPLING PARALYMPICS? MEDIA,DISABILITY AND OLYMPISM",
+      "keywords": []
+    },
+    "source": {
+      "journal": "Media Intemational Australia incorporating Culture and Policy",
+      "number": 97
+    }
+  },
+  {
+    "paper_id": 206,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": true,
+        "email": "gerard.goggin@sydney.edu.au."
+      },
+      {
+        "fname": "Fiona",
+        "lname": "Martin",
+        "cauthor": true,
+        "email": "fiona.martin@sydney.edu.au."
+      },
+      {
+        "fname": "Tim",
+        "lname": "Dwyer",
+        "cauthor": true,
+        "email": "timothy.dwyer@sydney.edu.au."
+      }
+    ],
+    "year": 2015,
+    "paper": {
+      "title": "Locative News: Mobile media, place informatics, and digital news",
+      "keywords": [
+        "location",
+        "locative media",
+        "mobile journalism",
+        "online news"
+      ]
+    },
+    "source": {
+      "journal": "Journalism Studies",
+      "volume": 16,
+      "number": 1,
+      "pages": {
+        "s_page": 41,
+        "e_page": 59
+      }
+    }
+  },
+  {
+    "paper_id": 207,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": true,
+        "email": "gerard.goggin@sydney.edu.au"
+      }
+    ],
+    "year": 2014,
+    "paper": {
+      "title": "Facebook’s mobile career",
+      "keywords": [
+        "Apps",
+        "Facebook",
+        "Internet histories",
+        "mobile media",
+        "smartphone",
+        "social media",
+        "youth"
+      ]
+    },
+    "source": {
+      "journal": "new media & society",
+      "volume": 16,
+      "number": 7,
+      "pages": {
+        "s_page": 1068,
+        "e_page": 1086
+      }
+    }
+  },
+  {
+    "paper_id": 208,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": true,
+        "email": "gerard.goggin@sydney.edu.au"
+      }
+    ],
+    "year": 2013,
+    "paper": {
+      "title": "Youth culture and mobiles",
+      "keywords": [
+        "Mobile media",
+        "monile phones",
+        "young people",
+        "youth",
+        "youth culture"
+      ]
+    },
+    "source": {
+      "journal": "Mobile Media & Communication",
+      "volume": 1,
+      "number": 1,
+      "pages": {
+        "s_page": 83,
+        "e_page": 88
+      }
+    }
+  },
+  {
+    "paper_id": 209,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": true,
+        "email": "g.goggin@unsw.edu.au"
+      },
+      {
+        "fname": "Jacqueline",
+        "lname": "Clark",
+        "cauthor": true,
+        "email": "jacquelineclark@ozemail.com.au."
+      }
+    ],
+    "year": 2009,
+    "paper": {
+      "title": "Mobile phones and community development: a contact zone between media and citizenship",
+      "keywords": [
+        "Technology",
+        "Social sector",
+        "Rights"
+      ]
+    },
+    "source": {
+      "journal": "Development in Practice",
+      "volume": 19,
+      "number": [
+        4,
+        5
+      ],
+      "pages": {
+        "s_page": 585,
+        "e_page": 597
+      }
+    }
+  },
+  {
+    "paper_id": 210,
+    "authors": [
+      {
+        "fname": "Gerard",
+        "lname": "Goggin",
+        "cauthor": true,
+        "email": "gerard.goggin@ntu.edu.sg"
+      },
+      {
+        "fname": "Katie",
+        "lname": "Ellis",
+        "cauthor": false
+      }
+    ],
+    "year": 2020,
+    "paper": {
+      "title": "Disability, communication, and life itself in the COVID-19 pandemic",
+      "keywords": [
+        "COVID-19",
+        "disability",
+        "media",
+        "accessibility",
+        "human rights",
+        "disability justice"
+      ]
+    },
+    "source": {
+      "journal": "Health Sociology Review",
+      "volume": 29,
+      "number": 2,
+      "pages": {
+        "s_page": 168,
+        "e_page": 176
+      }
+    }
+  }
+]

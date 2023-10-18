@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "__pycache__"
+		},
+		{
+			"path": "templates"
+		},
+		{
+			"path": "static"
+		}
+	]
+}
