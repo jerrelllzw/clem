@@ -156,22 +156,31 @@
                 yearInput.style.display = '';
                 conditionSelect.style.display = '';
                 authorsInput.style.display = 'none';
+                authorsInput.value = '';
                 pagesInput.style.display = 'none';
+                pagesInput.value = '';
             }  else if (filterType === 'author') {
                 authorsInput.style.display = '';
                 yearInput.style.display = 'none';
                 conditionSelect.style.display = 'none';
+                yearInput.value = '';
                 pagesInput.style.display = 'none';
+                pagesInput.value = '';
             } else if (filterType === 'pages') {
                 pagesInput.style.display = '';
                 yearInput.style.display = 'none';
                 conditionSelect.style.display = 'none';
+                yearInput.value = '';
                 authorsInput.style.display = 'none';
+                authorsInput.value = '';
             } else {
                 yearInput.style.display = 'none';
                 conditionSelect.style.display = 'none';
+                yearInput.value = '';
                 authorsInput.style.display = 'none';
+                authorsInput.value = '';
                 pagesInput.style.display = 'none';
+                pagesInput.value = '';
             }
         });
     </script>
